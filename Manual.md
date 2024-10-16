@@ -1,81 +1,6 @@
+## SETUP (Page 4)
 
-Rulebook
-
-## Tm
-
-## Tm
-
-introduction In Citadels, players are vying to become the kingdom's next Master Builder, but first they must impress the monarchy with their city-building skills.
-
-During a round, each player chooses one character, who provides a special ability for that turn. Each player builds his own city by playing district cards from his hand, which at the end of the game are worth points equal to their cost.
-
-The game ends at the end of the round in which a player has seven districts in his city, and the player with the most points will become the kingdom's next Master Builder!
-
-## A Brief History Of Citadels
-
-Citadels was first released in the year 2000 and is widely revered as a modern gaming masterpiece. Its success led to an expansion a few years later, and over the last decade and a half the game has been published in 25 languages and packaged in boxes of all shapes and sizes.
-
-This classic edition of the game is essentially Citadels as it was first published back in 2000—the original cast of eight characters, a crown card, cardboard gold tokens, and a few minor updates to rules and cards.
-
-## Components
-
-2
-
-## Thief 5
-
-## Bishop 8
-
-## Warlord
-
-Call a character you wish to rob. When the robbed character is revealed, you take all his gold.
-
-The Warlord cannot destroy your districts. Gain 1 gold for each of your religious districts.
-
-Destroy 1 district by paying 1 fewer gold than its cost. Gain 1 gold for each of your military districts.
-
-## 8 Character Cards
-
-## N Oble
-
-M i litary Castle
-
-If you choose to draw cards when gathering resources, keep all drawn cards.
-
-## U Nique Watchtower
-
-## Library
-
-## 68 District Cards
-
-## Scoring
-
-## On Your Turn
-
-When a city has 7† districts, the game ends after the current round, and you score points: • 1 point/coin on your districts.
-
-1) Gather Resources: You must gather resources in 1 of 2 ways: • Take 2 gold from the bank. • Draw 2 district cards, choose 1 to keep, and place the other at the bottom of the deck.
-
-3 points for having at least 1 district of each type.
-
-4 points for the first player who completed his city.
-
-2) Build: You may build 1 district by paying its cost.
-
-2 points for any other player who completed his city.
-
-- ) Use Character Ability: You may use each of your character's abilities once per turn when specified (or, if no time is specified, at any time).
-
-- Any extra points from your unique districts.
-
-## † 8 In A 2- Or 3-Player Game.
-
-## 1 Crown Card
-
-## 25 Gold Coin Tokens
-
-## 7 Reference Cards
-
-setup To set up the game, follow these steps:
+To set up the game, follow these steps:
 
 1. Shuffle the district cards and deal four cards facedown to each player. These cards are the players' starting hands.
 
@@ -85,29 +10,39 @@ setup To set up the game, follow these steps:
 
 4. The oldest player takes the crown.
 
-playing the GAme The rules are explained for games with 4–7 players. Rule changes for 2- and 3-player games can be found on pages 12–13.
+## PLAYING THE GAME (Page 4)
+The rules are explained for games with 4–7 players. Rule changes for 2- and 3-player games can be found on pages 12–13.
 
 Citadels is played over a series of rounds. Each round begins with the selection phase, during which players pass around the character cards and choose one character for the round. Each character card has special abilities, such as stealing another player's gold or destroying another player's district. After the selection phase comes the turn phase, during which players gather resources and build new districts in their city.
 
-The player who has the crown is known as the crowned player, who makes sure that each step is followed in order and calls for each character to take his turn during the turn phase.
+The player who has the crown is known as the **CROWNED PLAYER**, who makes sure that each step is followed in order and calls for each character to take his turn during the turn phase.
 
-## Setup Diagram (4-Player Game)
+## **SETUP DIAGRAM (4-PLAYER GAME)**
 
-## Bank
+## Gold Coins
 
-## District Deck
+## Pack of cards
 
-## Character Deck
+**CROWNED PLAYER'S PLAY AREA**
+>Character Deck of cards
 
-## Crown
+>Crown for king
 
-## Starting Gold
+>Starting Gold coins
 
-## Starting Cards
+>Starting deck of Cards
 
-crowned player's play ARea
+**SELECTION PHASE**
+The crowned player gathers the deck of eight character cards and shuffles it. First he randomly discards a number of them **faceup** in the center of the table, and then he randomly discards one **facedown**. The number of discarded faceup cards depends on the number of players in the game (see the table below). Discarded cards are not used this round.
 
-Selection Phase The crowned player gathers the deck of eight character cards and shuffles it. First he randomly discards a number of them faceup in the center of the table, and then he randomly discards one facedown. The number of discarded faceup cards depends on the number of players in the game (see the table below). Discarded cards are not used this round.
+
+|PLAYERS|  FACEUP CARDS|  FACEDOWN CARDS|
+|-------|--------------|----------------|
+|4      |2             |1               |
+|5|1|1|
+|6|0|1|
+|7|0|1|
+**Important**
 
 ## Selection Phase Faceup Cards
 
