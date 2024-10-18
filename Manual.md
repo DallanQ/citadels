@@ -13,17 +13,20 @@ To set up the game, follow these steps:
 ## PLAYING THE GAME (Page 4)
 The rules are explained for games with 4–7 players. Rule changes for 2- and 3-player games can be found on pages 12–13.
 
-Citadels is played over a series of rounds. Each round begins with the selection phase, during which players pass around the character cards and choose one character for the round. Each character card has special abilities, such as stealing another player's gold or destroying another player's district. After the selection phase comes the turn phase, during which players gather resources and build new districts in their city.
+**Citadels** is played over a series of rounds. Each round begins with the selection phase, during which players pass around the character cards and choose one character for the round. Each character card has special abilities, such as stealing another player's gold or destroying another player's district. After the selection phase comes the turn phase, during which players gather resources and build new districts in their city.
 
 The player who has the crown is known as the **CROWNED PLAYER**, who makes sure that each step is followed in order and calls for each character to take his turn during the turn phase.
 
 ## SETUP DIAGRAM (4-PLAYER GAME) (Page 5)
 
-> Gold Coins
-
+> 4 cards and 2 gold
+> 4 cards and 2 Gold
+- Bank
+> Gold
+- District Deck
 > Pack of cards
 
-**CROWNED PLAYER'S PLAY AREA**
+### CROWNED PLAYER'S PLAY AREA
 > Character Deck of cards
 
 > Card with image of a Crown 
