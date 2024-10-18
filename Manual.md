@@ -210,12 +210,19 @@ You gain one gold for each military district in your city. You can destroy one d
 
 ## CREDITS (Page 16)
 **Game Design:** Bruno Faidutti
+
 **Producer:** Steven Kimball
+
 **Character Art:** Jean-Louis Mourier
+
 **District Art:** Julien Delval, Didier Graffet, Bjarne Hansen, And Florence Magnin
+
 **Interior Art:** Florence Magnin
+
 **Original Graphic Design:** Cyrille Daujean And Brian Schomburg
+
 **Windrider Senior Graphic Designer:** Samuel R. Shimota
+
 **Publisher:** Steven Kimball
 
 ## QUICK REFERENCE
