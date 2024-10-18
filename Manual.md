@@ -17,7 +17,7 @@ Citadels is played over a series of rounds. Each round begins with the selection
 
 The player who has the crown is known as the **CROWNED PLAYER**, who makes sure that each step is followed in order and calls for each character to take his turn during the turn phase.
 
-## **SETUP DIAGRAM (4-PLAYER GAME)** (Page 5)
+## SETUP DIAGRAM (4-PLAYER GAME) (Page 5)
 
 > Gold Coins
 
@@ -81,20 +81,6 @@ Kurt just finished his turn as the Architect. The next character called is the W
 
 3. Kurt appears to be in the lead, so Ashley decides to pay one gold to destroy his Market, which he discards facedown to the bottom of the deck.
 - Images of cards and gold
-
-8
-
-## W A R L O R D
-
-D e s t ro y 1 d i s t r i c t b y p a y in g 1 f ew e r go ld th an i t s co s t . G a in 1 go ld fo r e a ch o f you r m i l i t a r y d i s t r i c t s .
-
-## Trademarket
-
-7
-
-## Architect
-
-Gain 2 extra cards. You can build up to 3 districts.
 
 ## EXAMPLE OF A TURN (CONT'D) (Page 9)
 
@@ -240,7 +226,12 @@ You gain one gold for each military district in your city. You can destroy one d
 7. Architect 
 8. Warlord
 #### SELECTION PHASE
-PLATERS | FACEUP CARDS | FACEDOWN CARDS
+PLATERS | FACEUP CARDS | FACEDOWN CARDS |
+|-------|--------------|----------------|
+4 | 2 |3 |
+5 | 1 |1 |
+6 | 0 |1 |
+7 | 0 |1 |
 
 © 2016 Windrider Games. Citadels, Windrider Games, and the Windrider logo are TM of Windrider Games. Windrider Games, 1995 West County Road B2, Roseville, Minnesota, 55113, USA, 651-639-1905. Windrider Games is a division of Asmodee North America, Inc. Actual components may vary from those shown. Made in China. NOT INTENDED FOR USE BY PERSONS 9 YEARS OF AGE OR YOUNGER.
 
