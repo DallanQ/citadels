@@ -17,7 +17,7 @@ Citadels is played over a series of rounds. Each round begins with the selection
 
 The player who has the crown is known as the **CROWNED PLAYER**, who makes sure that each step is followed in order and calls for each character to take his turn during the turn phase.
 
-## **SETUP DIAGRAM (4-PLAYER GAME)**
+## **SETUP DIAGRAM (4-PLAYER GAME)** (Page 5)
 
 ## Gold Coins
 
@@ -32,7 +32,7 @@ The player who has the crown is known as the **CROWNED PLAYER**, who makes sure 
 
 >Starting deck of Cards
 
-**SELECTION PHASE**
+**SELECTION PHASE** (Page 6)
 The crowned player gathers the deck of eight character cards and shuffles it. First he randomly discards a number of them **faceup** in the center of the table, and then he randomly discards one **facedown**. The number of discarded faceup cards depends on the number of players in the game (see the table below). Discarded cards are not used this round.
 
 
@@ -42,85 +42,36 @@ The crowned player gathers the deck of eight character cards and shuffles it. Fi
 |5|1|1|
 |6|0|1|
 |7|0|1|
-**Important**
-
-## Selection Phase Faceup Cards
-
-## Facedown Cards
-
-## Players
-
-4
-
-5
-
-6
-
-7
-
-2
-
-1
-
-0
-
-0
-
-1
-
-1
-
-1
-
-1*
-
+**Important:** The King cannot be among the faceup discarded cards. If the King is discarded faceup, discard another character card faceup to replace the King and shuffle the King into the character deck.
 Next, the crowned player takes the remaining character cards, looks at them, and secretly chooses one to keep. Then he passes the remaining cards to the player on his left, who also chooses a card and passes the rest of the cards to his left, and so on. This continues until each player has chosen one character card. After the last player has chosen his card, he discards the one unchosen card facedown near the other discarded cards.
 
-- Special Rule with 7 Players: After the sixth player passes the last character card to the seventh player, the seventh player also takes the character card that was discarded facedown at the beginning of the round. He chooses one of these two cards and discards the other facedown.
+**Special Rule with 7 Players:** After the sixth player passes the last character card to the seventh player, the seventh player also takes the character card that was discarded facedown at the beginning of the round. He chooses one of these two cards and discards the other facedown.
 
-open informationthe amount of gold and cards each player has is open information. There is an unlimited amount of gold. If the bank runs out, players can use a substitute for gold. Also, there is no limit to a player's handsize.
+**OPEN INFORMATION** 
+The amount of gold and cards each player has is open information. There is an unlimited amount of gold. If the bank runs out, players can use a substitute for gold. Also, there is no limit to a player's handsize.
 
-Important: The King cannot be among the faceup discarded cards. If the King is discarded faceup, discard another character card faceup to replace the King and shuffle the King into the
-
-## Character Deck.
-
-## Call A Character You Wish To Kill. The Killed Character Skips His Turn.Assassin
-
-Turn Phase Unlike the selection phase, players do not take turns in clockwise order during the turn phase. Instead, they take turns in ascending order of their chosen character's rank, which appears in the top-left corner of each character card. The crowned player calls each character number in ascending order, starting with the number "1" (the Assassin). If a player has the called character card, he reveals it by flipping it faceup and takes his turn.
-
+**Turn Phase** (Page 7)
+Unlike the selection phase, players do not take turns in clockwise order during the turn phase. Instead, they take turns in ascending order of their chosen character's rank, which appears in the top-left corner of each character card. The crowned player calls each character number in ascending order, starting with the number "1" (the Assassin). If a player has the called character card, he reveals it by flipping it faceup and takes his turn.
+>ASSAAAIN'S RANK (Badge showing the number 1)
+>THE DOCKS' COST (3 gold coins)
+During a turn, the player **must** gather resources. He can either take two gold from the bank or draw two district cards from the deck, choose one to keep, and discard the other facedown to the bottom of the deck.
+After gathering resources, he **may** build one district in his city. To do this, he plays a card from his hand faceup in front of him and pays gold to the bank equal to the district’s building cost. 
 A player has a building limit of one district per turn, and a player cannot build a district that is identical (with the same name) to a district already in his city.
 
 After the player with the called character has taken his turn, or if no player revealed the called character, the crowned player continues calling the next character in ascending order, and so on until he has called all characters, after which a new round begins with the selection phase.
 
-Character Abilities A player may use his character's abilities only once per turn at the time specified. If no time is specified, the player can use the ability at any time during his turn. Some characters have abilities that gain gold for districts of a certain type in their city. As a reminder, these characters' rank number appears on a gem of the color of its corresponding district type. Character abilities are explained in detail on pages 14–15. These abilities are the heart of the game, so be sure to familiarize yourself with them before the game begins.
-
-Assassin's RAnk
-
-During a turn, the player must gather resources. He can either take two gold from the bank or draw two district cards from the deck, choose one to keep, and discard the other facedown to the bottom of the deck.
-
-After gathering resources, he may build one district in his city. To do this, he plays a card from his hand faceup in front of him and pays gold to the bank equal to the district's building cost.
-
-the docks' cost
+**Character Abilities**
+A player **may** use his character's abilities only once per turn at the time specified. If no time is specified, the player can use the ability at any time during his turn. Some characters have abilities that gain gold for districts of a certain type in their city. As a reminder, these characters' rank number appears on a gem of the color of its corresponding district type. Character abilities are explained in detail on pages 14–15. These abilities are the heart of the game, so be sure to familiarize yourself with them before the game begins.
 
 ## Tradedocks
 
-## Example Of A Turn
+## EXAMPLE OF A TURN (Page 8)
 
 Kurt just finished his turn as the Architect. The next character called is the Warlord. Ashley chose the Warlord during the selection phase, so she flips her character card faceup and takes her turn.
-
+1. Earlier in the round, Anna was the Thief and chose to rob the Warlord. Now that the Warlord is revealed, Anna takes all the gold in Ashley's stash.
+>Thief colloect warlords' 4 gold
 2. Next, Ashley gathers resources. To try and recuperate a portion of her stolen coins, she chooses to gain two gold from the bank.
-
-8
-
-## W A R L O R D
-
-1. Earlier in the round, Anna was the Thief and chose to rob the Warlord. Now that the Warlord is revealed, Anna takes all the gold in Ashley's stash. 2
-
-1. Earlier in the round, Anna was the Thief and chose to rob the Warlord. Now that the Warlord is revealed, Anna takes all the gold in Ashley's stash. 2
-
-## Thief
-
-8
+>Warlord gains 2 gold from bank
 
 D e s t ro y 1 d i s t r i c t b y p a y in g 1 f ew e r go ld th an i t s co s t . G a in 1 go ld fo r e a ch o f you r m i l i t a r y d i s t r i c t s .
 
