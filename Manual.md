@@ -54,7 +54,7 @@ The amount of gold and cards each player has is open information. There is an un
 
 ## Turn Phase (Page 7)
 Unlike the selection phase, players do not take turns in clockwise order during the turn phase. Instead, they take turns in ascending order of their chosen character's rank, which appears in the top-left corner of each character card. The crowned player calls each character number in ascending order, starting with the number "1" (the Assassin). If a player has the called character card, he reveals it by flipping it faceup and takes his turn.
-- ASSAAAIN'S RANK
+- ASSASSIN'S RANK
 > Badge showing the number 1
 - THE DOCKS' COST
 > 3 gold coins
@@ -198,7 +198,7 @@ During this round, the Warlord cannot destroy your districts. If you are killed,
 6) MERCHANT
 You gain one gold for each trade district in your city. You gain one extra gold. You can use this ability regardless of what resource you gathered this turn.
 
-7) ARchitect
+7) ARCHITECT
 
 Gain two extra cards. You can use this ability regardless of what resource you gathered this turn. You can build up to three districts.
 
