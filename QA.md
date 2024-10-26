@@ -56,11 +56,19 @@ You are correct. They may use their ability at any point, with a few exceptions 
 
 [are-coins-limited](https://boardgamegeek.com/thread/2096090/are-coins-limited)
 
+> Are gold coins limited in the game? When there's no more that's it? If not, what do you use to supplement coins?
+
+The amount of gold is not limited by components, you can use a suitable replacement (real coins, matchsticks, apples, or oranges) if you run out.
+
 [some-questions](https://boardgamegeek.com/thread/785033/some-questions)
 
 [miniera](https://boardgamegeek.com/thread/3120922/miniera)
 
 [witch](https://boardgamegeek.com/thread/1276403/witch)
+
+> When the bewitched character is called upon, they take an action then end their turn. Then the witch takes over the rest of the turn. My question is, Does the witch now get to do an action (take 2 gold/cards) again, or does she just get the bonus of the bewitched character? Thanks.
+
+No, the Witch does her action on her turn, at which point she stops her turn. Then, when the bewitched character has performed their action, the Witch takes over their turn *at that point* so doesn't get a second action, but can use the bewitched character's special action and then build a district (or more if bewitching the Architect).
 
 [giving-random-card-or-choice](https://boardgamegeek.com/thread/213925/giving-random-card-or-choice)
 
@@ -73,10 +81,17 @@ You are correct. They may use their ability at any point, with a few exceptions 
 [merchant](https://boardgamegeek.com/thread/784288/merchant)
 
 [players-in-clockwise-order](https://boardgamegeek.com/thread/871034/players-in-clockwise-order)
+> Instead of going by character number sequence and having the king announcing that order sequence, have the person with the king role (if not, randomly select the first player) starts the turn and everyone take each round clockwise. Perhaps this variant might be more suitable for those who take greater interest in building districts than for those who find pleasure screwing each other? I get the impression that the game might somewhat be unbalanced in the sense that advantage tends to go to those who take their turns the later the more, since you already know who is who and whom to target--and becomes more of a personal level thing than a character level thing? Can someone affirm or deny this?
+
+The Assassin and Thief go first and second, so they are taking guesses as to what other roles were picked. Those are the real "screw you" roles and there is no guarantee you will hit with them. (If I say "Bishop" and nobody has chosen the Bishop, my power goes wasted.)
 
 [learn-how-to-teach-and-play-citadels-from-the-how](https://boardgamegeek.com/thread/515612/learn-how-to-teach-and-play-citadels-from-the-how)
 
 [opting-not-to-use-character-ability](https://boardgamegeek.com/thread/397997/opting-not-to-use-character-ability)
+
+> With 2 players you have 2 characters. On your second turn in a round, can you use the first character's power again?
+
+No. That is the point of the 2nd character - to use two different abilities.
 
 [2-player-question-using-a-characters-power-again-o](https://boardgamegeek.com/thread/626931/2-player-question-using-a-characters-power-again-o)
 
@@ -85,6 +100,10 @@ You are correct. They may use their ability at any point, with a few exceptions 
 [when-to-use-character-powers](https://boardgamegeek.com/thread/88698/when-to-use-character-powers)
 
 [assasinated-bishop](https://boardgamegeek.com/thread/69092/assasinated-bishop)
+
+> If the Bishop is assasinated, can the Warlord (or Diplomat) destroy (or swap) one of his buildings? Presumably, the Bishop has not yet revealed who he/she is, though it would be obvious unless someone else has the Artist or the Queen. If the answer is yes, a dead Bishop can be targeted, then this allows the Assasin and the Warlord/Diplomat to gang up on a Bishop that is in the lead. If the answer is no, then what happens when the Warlord/Diplomat tries? Does he keep his gold or is it lost in a blundered attempt?
+
+The official FAQ (http://www.bggfiles.com/viewfile.php3?fileid=10218) says that a dead Bishop is not protected from the Warlord/Diplomat. Whether you didn't reveal your role because you chose to skip your turn or because you were assassinated, you just don't reveal it period. This also means that you don't get to use its special powers. So, in our games, the assassinated Bishop would not get to collect on blue buildings or be protected from the Warlord.
 
 [faq-10-questions-need-answering](https://boardgamegeek.com/thread/86522/faq-10-questions-need-answering)
 
