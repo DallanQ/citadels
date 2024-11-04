@@ -2,13 +2,13 @@
 
 [assasin-card-stay-silent](https://boardgamegeek.com/thread/2168610/assasin-card-stay-silent)
 
-> I am confused by the wording on the Assassin card "The player who has the murdered character must say nothing, and must remain silent when the murdered character is called upon to take his turn. The murdered character misses his entire turn." ..... "and must remain silent when the murdered character is called upon to take his turn." Does that mean that when Merchant is called upon, Player B should remain completely silent and not say anything at all? So people would presume that maybe Merchant card was discarded?
+> I am confused by the wording on the Assassin card "The player who has the murdered character must say nothing, and must remain silent when the murdered character is called upon to take his turn. The murdered character misses his entire turn, and must remain silent when the murdered character is called upon to take his turn." Does that mean that when Merchant is called upon, Player B should remain completely silent and not say anything at all? So people would presume that maybe Merchant card was discarded?
 
 Correct! At that point in the round, it's unknown if the Merchant was a player or a discard at that point. By the end of the round, it will become obvious (since Player B would not have taken a turn).
 
 [question-regarding-the-architech](https://boardgamegeek.com/thread/493329/question-regarding-the-architech)
 
-> The Architech special ability say "After you take an action, draw 2 extra cards and put both in your hand. You may build up to three districts during your turn."
+> The Architech special ability says "After you take an action, draw 2 extra cards and put both in your hand. You may build up to three districts during your turn."
 > My question is; What is the meaning of 'After you take an action'? Does that mean:
 > 1) after you get the 2 coins or draw a card? Or
 > 2) after you get the 2 coins or draw a card? Then, after building houses, i.e. you are only allow to draw 2 extra cards as your very last move.
@@ -21,12 +21,12 @@ In Citadels, an "action" always means "take 2 coins, or draw 2 cards and keep 1"
 
 >  In the rules it says that the witch does get the extra gold and the extra cards, but since the merchant and architect get to act out that phase of their turn do they also get the extra gold/extra card, and thus the ability is performed twice- once by the merchant/architect and once by the witch? Or does the witch just "steal" the ability even if the ability takes place in the "take an action" phase of their turn?
 
-**Each ability is used only once - either by the player (if he isn't selected) or the witch if she bewitches that character:** At the beginning of their turn, each player may take an action. An action is 1) take 2 gold -OR- 2) Draw 2 District cards keeping only one. When the Victim comes up, they get an action as well but can't use the special ability of their character. So they only get 2 gold or 2 cards, keeping one. Their turn is now over. The witch then resumes her turn and can use the special ability of the character "(including the gold bonus of the Merchant or the two card bonus of the Architect)" in her own city.
+**Each ability is used only once: either by the player (if he isn't selected) or the witch if she bewitches that character:** At the beginning of their turn, each player may take an action. An action is 1) take 2 gold -OR- 2) Draw 2 District cards keeping only one. When the Victim comes up, they get an action as well but can't use the special ability of their character. So they only get 2 gold or 2 cards, keeping one. Their turn is now over. The witch then resumes her turn and can use the special ability of the character "(including the gold bonus of the Merchant or the two card bonus of the Architect)" in her own city.
 
 
 [2players-question](https://boardgamegeek.com/thread/812294/2players-question)
 
-> In a game with 2 players
+> In a game with 2 players:
 > The first player puts one card randomly close on the table then he chooses one card and gives the cards to the second player...
 > The second player chooses one card for him and then he chooses one card and he puts it on the table!!! Is this second card choosen randomly by the second player or can he put on the table Any card he wants?
 
@@ -34,7 +34,7 @@ Yes, Player 2 chooses both his own character card and the one to place face-down
 
 [beginner-needs-help-with-rules](https://boardgamegeek.com/thread/2983049/beginner-needs-help-with-rules)
 
-> does Bishop protect all buildings from demolition or only church buildings?
+> Does the Bishop protect all buildings from demolition or only church buildings?
 
 The Bishop protects all of your buildings from destruction. The rulebook says: "Your districts may not be destroyed/exchanged by the Warlord/Diplomat." In the game, "district" means any building card.
 
@@ -78,6 +78,14 @@ No, the Witch does her action on her turn, at which point she stops her turn. Th
 
 [bewitched-character](https://boardgamegeek.com/thread/1111282/bewitched-character)
 
+> If my character has been bewitched, can I build a city after taking my aactions ( 2 gold or 2cards choose one)?
+
+If YOU are bewitched, then you take your action (2 gold coins or draw 2 cards & keep 1) and immediately you end your turn. You don't build
+
+> if I am the witch, can i build a city after taking my action and calling out the character to bewitch? 
+
+If you are the WITCH, You take your action (2 gold coins or draw 2 cards & keep 1), announce the character to bewitch and end your turn.
+
 [merchant](https://boardgamegeek.com/thread/784288/merchant)
 
 [players-in-clockwise-order](https://boardgamegeek.com/thread/871034/players-in-clockwise-order)
@@ -85,6 +93,10 @@ No, the Witch does her action on her turn, at which point she stops her turn. Th
 [learn-how-to-teach-and-play-citadels-from-the-how](https://boardgamegeek.com/thread/515612/learn-how-to-teach-and-play-citadels-from-the-how)
 
 [opting-not-to-use-character-ability](https://boardgamegeek.com/thread/397997/opting-not-to-use-character-ability)
+
+> If the player with the Navigator card chooses not to collect 4 gold or 4 cards, IS she allowed to build a district?
+
+ The Navigator is not allowed to build, even if you forego your ability.
 
 [2-player-question-using-a-characters-power-again-o](https://boardgamegeek.com/thread/626931/2-player-question-using-a-characters-power-again-o)
 
@@ -98,9 +110,9 @@ No. That is the point of the 2nd character - to use two different abilities.
 
 [assasinated-bishop](https://boardgamegeek.com/thread/69092/assasinated-bishop)
 
-> If the Bishop is assasinated, can the Warlord (or Diplomat) destroy (or swap) one of his buildings? Presumably, the Bishop has not yet revealed who he/she is, though it would be obvious unless someone else has the Artist or the Queen. If the answer is yes, a dead Bishop can be targeted, then this allows the Assasin and the Warlord/Diplomat to gang up on a Bishop that is in the lead. If the answer is no, then what happens when the Warlord/Diplomat tries? Does he keep his gold or is it lost in a blundered attempt?
+> If the Bishop is assasinated, can the Warlord (or Diplomat) destroy (or swap) one of his buildings? 
 
-A dead Bishop is not protected from the Warlord/Diplomat. Whether you didn't reveal your role because you chose to skip your turn or because you were assassinated, you just don't reveal it period. This also means that you don't get to use its special powers.
+A dead Bishop is not protected from the Warlord/Diplomat. 
 
 [faq-10-questions-need-answering](https://boardgamegeek.com/thread/86522/faq-10-questions-need-answering)
 
@@ -108,15 +120,29 @@ A dead Bishop is not protected from the Warlord/Diplomat. Whether you didn't rev
 
 [3-player-rule-clarifications](https://boardgamegeek.com/thread/701781/3-player-rule-clarifications)
 
+> In a 3-player game, can you "save up" the first characters ability?
+
+No, you can't save up actions. Citadels rules, p8 states: 'In a two- or three-player game, all players play with two characters each. The game is played normally, except that each player has two turns each round (one turn for each character)'.
+
 [quarry](https://boardgamegeek.com/thread/821974/quarry)
+
+> Does the use of the word "play" as opposed to "build" mean that the placing of duplicate building is without cost?
+
+No, the english rules define building as playing a card from your hand onto the table in front of you.
 
 [questions-about-navagator-and-maybe-the-tax-collec](https://boardgamegeek.com/thread/1018281/questions-about-navagator-and-maybe-the-tax-collec)
 
 [2-player-rules-turn-order](https://boardgamegeek.com/thread/1442736/2-player-rules-turn-order)
+> in a 2-player game, does Player 1 play two turns, one with each character, then player 2 does the same?
+
+Play the characters in numerical or alphabetical order.
 
 [7-player-game](https://boardgamegeek.com/thread/98653/7-player-game)
 
 [warlord-v-bishop-in-2-player-game](https://boardgamegeek.com/thread/226593/warlord-v-bishop-in-2-player-game)
+> Can the Warlard destroy a non-blue building built by another character? Or are all buildings protected if a player holds the Bishop character?
+
+If you have used the Bishop this round then all your buildings are protected from the Warlord, if the Bishop was not Assassinated or Bewitched.
 
 [the-diplomat-and-the-lighthouse-does-exchanging-eq](https://boardgamegeek.com/thread/1905189/the-diplomat-and-the-lighthouse-does-exchanging-eq)
 
