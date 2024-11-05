@@ -140,7 +140,7 @@ Play the characters in numerical or alphabetical order.
 [7-player-game](https://boardgamegeek.com/thread/98653/7-player-game)
 
 [warlord-v-bishop-in-2-player-game](https://boardgamegeek.com/thread/226593/warlord-v-bishop-in-2-player-game)
-> Can the Warlard destroy a non-blue building built by another character? Or are all buildings protected if a player holds the Bishop character?
+> Can the Warlord destroy a non-blue building built by another character? Or are all buildings protected if a player holds the Bishop character?
 
 If you have used the Bishop this round then all your buildings are protected from the Warlord, if the Bishop was not Assassinated or Bewitched.
 
@@ -148,9 +148,17 @@ If you have used the Bishop this round then all your buildings are protected fro
 
 [allowed-or-not-telling-the-assassin-what-were-the](https://boardgamegeek.com/thread/3340672/allowed-or-not-telling-the-assassin-what-were-the)
 
+> Can I tell the Assassin what last 2 cards i gave to the leading player, and thus, narrowing the number of possible characters to kill down to 2 options?
+
+It is against the spirit of the game to reveal such information, because Citadels is about secret role selection.
+
 [looking-for-english-descriptions-of-the-purple-car](https://boardgamegeek.com/thread/169303/looking-for-english-descriptions-of-the-purple-car)
 
 [is-there-an-official-tiebreaker-in-citadels](https://boardgamegeek.com/thread/407356/is-there-an-official-tiebreaker-in-citadels)
+
+> Is there an official tie breaker in Citadels?
+
+From the Designer: I usually don't put tie breakers in my games, except when there's a realy good reason for it, or when the publisher insists.
 
 [smithy-is-too-overpowered](https://boardgamegeek.com/thread/262305/smithy-is-too-overpowered)
 
@@ -158,15 +166,34 @@ If you have used the Bishop this round then all your buildings are protected fro
 
 [2-player-gameplay-question-citadels](https://boardgamegeek.com/thread/317284/2-player-gameplay-question-citadels)
 
+> Who gets to pick the first card after the first round? Does the counter only move to another player when that player chooses the King card?
+
+Yes, whoever has the "king" token picks first.
+
+
 [thief-and-assassin-abilities-played-only-once-per](https://boardgamegeek.com/thread/1721248/thief-and-assassin-abilities-played-only-once-per)
 
+> Are the Thief and Assassin abilities intended to be used only once per game, or only once per round?
+
+The thief and assassin's abilities can be used only once per round. The chosen characters can be used again next round.
+
 [warlord-vs-university](https://boardgamegeek.com/thread/124862/warlord-vs-university)
+
+>  A University costs 6 gold pieces to build but is worth 8. Does a Warlord need to spend 5 or 7 gold to destroy it?
+
+The author answered this question in the official Q&A:
+Q: What is the price for the Warlord to destroy the University or the Dragon port, 5 or 7 gold pieces?
+A: Building cost minus one: 6-1 = 5
 
 [error-in-the-rules](https://boardgamegeek.com/thread/90659/error-in-the-rules)
 
 [the-witch-and-navigator](https://boardgamegeek.com/thread/658660/the-witch-and-navigator)
 
 [just-a-little-thing-from-a-noob](https://boardgamegeek.com/thread/481785/just-a-little-thing-from-a-noob)
+
+>  Can a character build a district of any color of his choice and then collect one extra gold for having that district in his city?
+
+Yes, you have a choice of collecting a gold either before or after building.
 
 [one-of-each-type](https://boardgamegeek.com/thread/375630/one-of-each-type)
 
@@ -180,6 +207,10 @@ If you have used the Bishop this round then all your buildings are protected fro
 
 [set-ups-and-characters](https://boardgamegeek.com/thread/612752/set-ups-and-characters)
 
+> Are the characters players chosen in the open? That is; are characters revealed and placed down?
+
+No, choices are secret. Your character is only revealed when your character is called by the King.
+
 [is-building-swap-allowed-if-leading-to-duplicate-b](https://boardgamegeek.com/thread/210461/is-building-swap-allowed-if-leading-to-duplicate-b)
 
 [the-witch-and-the-thief](https://boardgamegeek.com/thread/93024/the-witch-and-the-thief)
@@ -188,21 +219,56 @@ If you have used the Bishop this round then all your buildings are protected fro
 
 [warlord-ability-needing-clarification](https://boardgamegeek.com/thread/1299562/warlord-ability-needing-clarification)
 
+> After destroying a district, does the warlord pay the cost of the district to the player whose district was destroyed or to the bank?
+
+The Warlord pays into the bank. The player who loses a district does not receive anything.
+
 [what-to-do-with-cards-in-your-hand](https://boardgamegeek.com/thread/92122/what-to-do-with-cards-in-your-hand)
 
 [the-thief-and-the-merchant](https://boardgamegeek.com/thread/767620/the-thief-and-the-merchant)
 
+> Does the thief steal the extra coin of the merchant (the one that merchant take at the beginning of his/her turn)?
+
+No, the thief only steals what the merchant has before the turn.
 [knowing-chosen-role-cards](https://boardgamegeek.com/thread/901818/knowing-chosen-role-cards)
 
 [character-powers-in-2-player-game](https://boardgamegeek.com/thread/94850/character-powers-in-2-player-game)
 
+> If a Player has the Bishop and the Merchant. During the bishop's turn, he recieves some gold for having religious districts. Next up is the Merchant. Now he decides to build a religous district. Does the bishop gain gold for this newly built district?
+
+The player takes 2 seperate turns, so you are correct - the blue district built by the merchant will NOT give any sort of bonus to the Bishop.
+
 [why-artist-and-queen-both-number-9](https://boardgamegeek.com/thread/1635196/why-artist-and-queen-both-number-9)
 
+> What happens if we use both Artist and Queen in the game? This confuses me a long time?
+
+You can't use two roles that have the same number in the same game, so this situation would never come up.
+
 [can-i-choose-not-to-take-income](https://boardgamegeek.com/thread/948182/can-i-choose-not-to-take-income)
+
+> I had bishop & architect. The thief had called architect. At the start of my turn I had no gold & only the church in my hand (cost 2 gold). Could I skip the income, leaving no gold for the thief?
+
+All the abilities are optional, you don't have to take the income with the bishop if you don't want to.
 
 [assassinating-the-tax-collector](https://boardgamegeek.com/thread/478979/assassinating-the-tax-collector)
 
 [queries-on-various-rules](https://boardgamegeek.com/thread/940571/queries-on-various-rules)
+
+> What happens if the Warlord plays after the player to get 8 districts has played, and destroys one of that player's districts
+
+The Warlord cannot target a completed city, a city that has 8 or more districts.
+
+> Regarding the purple districts that cost 6 gold to buy but are worth 8 gold at game end: How much does the Warlord have to pay to destroy those?
+
+He has to pay 5 gold (cost of district - 1)
+
+> Part of the Architect's special ability says "You may build up to three districts during your turn". Does that mean at ANY point during your turn, or only during the regular 'build a district' point of a turn?
+
+It would be during normal building times.
+
+> Does the Thief steal only what the character is starting with, or will he also steal the gold generated from the characters income?
+
+The thief steals at the start of the victim's turn, so you only get what they start with.
 
 [does-the-thief-steal-the-income](https://boardgamegeek.com/thread/697597/does-the-thief-steal-the-income)
 
@@ -212,21 +278,67 @@ If you have used the Bishop this round then all your buildings are protected fro
 
 [turn-order](https://boardgamegeek.com/thread/469992/turn-order)
 
+ > Do I have to wait until after I've taken my action and built my district to use my character's special ability?
+
+You can use the special ability any time you want.
+
 [couple-ruling-questions](https://boardgamegeek.com/thread/209575/couple-ruling-questions)
+
+> If I have a district card that I build that has a special power I can use, do I have to wait til the next round to use that power/action or can I go ahead and use it?
+
+You can use a district card's special ability as soon as you build it, unless it specifically pertains to an action that occurs before the building phase.
+
+> What happens if a player is called and forgets to play?
+
+If a player forgets his character, he misses turn unless everyone is feeling sympathetic.
+
+> If I trade cards with another player, can i still use those cards I received to build?
+
+Definitely correct. A character's ability can be used any time during the turn.
 
 [ninth-district-in-2-player-game](https://boardgamegeek.com/thread/110436/ninth-district-in-2-player-game)
 
+> Is it possible during the final round to build an 8th district with their 1st character and a 9th district with their 2nd character?
+
+The eighth building triggers the endgame. It's perfectly OK to build to nine buildings.
+
 [imperial-treasury-how-many-points](https://boardgamegeek.com/thread/396842/imperial-treasury-how-many-points)
 
+> How many points does the treasury grant at the end of the game?
+
+It grants the Gold in your possesion as Victory points PLUS the 4 Victory points it is worth.
+
 [warlord-destroying-8th-district](https://boardgamegeek.com/thread/99948/warlord-destroying-8th-district)
+
+> If a player is the first to get 8 districts, but the warlord immediately destroys one: Does the game still end after this round?
+
+The warlord can not destroy a district in a completed Citadel. Once someone has built the eighth district the game will end that turn.
 
 [diplomat-in-a-2-player-game-can-i-build-with-my-ot](https://boardgamegeek.com/thread/1454752/diplomat-in-a-2-player-game-can-i-build-with-my-ot)
 
 [question-about-tief-and-merchant](https://boardgamegeek.com/thread/121419/question-about-tief-and-merchant)
 
+> Can district income be stolen by the thief ?
+
+No, when you steal from someone as the Thief, you only get the gold they have when they begin their turn
+
+> When Merchant does not choose to take golds for an action, is he still entitled the additional 1 gold ?
+
+Yes, as the Merchant you can either take 3 gold or 1 gold and the two district cards.
+
+> In the begining of a round, we must put 1 character card face down. Should this be done randomly or choosen by the Crowned player?
+
 [what-makes-up-a-district](https://boardgamegeek.com/thread/500880/what-makes-up-a-district)
 
+> How is a district formed?
+
+Each one of the building cards is considered a "district." You simply build one card by paying the amount of gold pictured on it, and that's your first district.
+
 [confused-with-2-player-rules](https://boardgamegeek.com/thread/102907/confused-with-2-player-rules)
+
+> In a 2 player game, do the 2 characters I have build a serperate city each , or do they gang up and build a city between themselves?
+
+Both characters help you toward building 8 buildings. So it is one city.
 
 [the-king-card-during-setup](https://boardgamegeek.com/thread/645710/the-king-card-during-setup)
 
