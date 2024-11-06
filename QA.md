@@ -2,18 +2,15 @@
 
 [assasin-card-stay-silent](https://boardgamegeek.com/thread/2168610/assasin-card-stay-silent)
 
-> I am confused by the wording on the Assassin card "The player who has the murdered character must say nothing, and must remain silent when the murdered character is called upon to take his turn. The murdered character misses his entire turn, and must remain silent when the murdered character is called upon to take his turn." Does that mean that when Merchant is called upon, Player B should remain completely silent and not say anything at all? So people would presume that maybe Merchant card was discarded?
+> According to the Assassin card; "The player who has the murdered character must say nothing, and must remain silent when the murdered character is called upon to take his turn. The murdered character misses his entire turn, and must remain silent when the murdered character is called upon to take his turn." Does that mean that when Merchant is called upon, Player B should remain completely silent and not say anything at all? So people would presume that maybe Merchant card was discarded?
 
 Correct! At that point in the round, it's unknown if the Merchant was a player or a discard at that point. By the end of the round, it will become obvious (since Player B would not have taken a turn).
 
 [question-regarding-the-architech](https://boardgamegeek.com/thread/493329/question-regarding-the-architech)
 
-> The Architech special ability says "After you take an action, draw 2 extra cards and put both in your hand. You may build up to three districts during your turn."
-> My question is; What is the meaning of 'After you take an action'? Does that mean:
-> 1) after you get the 2 coins or draw a card? Or
-> 2) after you get the 2 coins or draw a card? Then, after building houses, i.e. you are only allow to draw 2 extra cards as your very last move.
-
-It is number 1. 
+> The Architect special ability says "After you take an action, draw 2 extra cards and put both in your hand. You may build up to three districts during your turn."
+> My question is; What is the meaning of 'After you take an action'? Does that mean: after you get the 2 coins/draw a card? 
+ 
 **Action** = The first step of your turn (get 2 gold OR get 2 district cards and keep one)
 In Citadels, an "action" always means "take 2 coins, or draw 2 cards and keep 1". Then the rest of your turn consists of building, and using your character's special power.
 
@@ -21,7 +18,7 @@ In Citadels, an "action" always means "take 2 coins, or draw 2 cards and keep 1"
 
 >  In the rules it says that the witch does get the extra gold and the extra cards, but since the merchant and architect get to act out that phase of their turn do they also get the extra gold/extra card, and thus the ability is performed twice- once by the merchant/architect and once by the witch? Or does the witch just "steal" the ability even if the ability takes place in the "take an action" phase of their turn?
 
-**Each ability is used only once: either by the player (if he isn't selected) or the witch if she bewitches that character:** At the beginning of their turn, each player may take an action. An action is 1) take 2 gold -OR- 2) Draw 2 District cards keeping only one. When the Victim comes up, they get an action as well but can't use the special ability of their character. So they only get 2 gold or 2 cards, keeping one. Their turn is now over. The witch then resumes her turn and can use the special ability of the character "(including the gold bonus of the Merchant or the two card bonus of the Architect)" in her own city.
+**Each ability is used only once: either by the player (if he isn't selected) or the witch if she bewitches that character:** At the beginning of their turn, each player may take an action. An action is 1) take 2 gold -OR- 2) Draw 2 District cards keeping only one. When the Victim comes up, they get an action as well but can't use the special ability of their character. So they only get 2 gold or 2 cards, keeping one. Their turn is now over. The witch then resumes her turn and can use the special ability of the character.
 
 
 [2players-question](https://boardgamegeek.com/thread/812294/2players-question)
@@ -338,13 +335,21 @@ Each one of the building cards is considered a "district." You simply build one 
 
 > In a 2 player game, do the 2 characters I have build a serperate city each , or do they gang up and build a city between themselves?
 
-Both characters help you toward building 8 buildings. So it is one city.
+Both characters help you toward building a city.
 
 [the-king-card-during-setup](https://boardgamegeek.com/thread/645710/the-king-card-during-setup)
 
 [obispo-y-condotiero](https://boardgamegeek.com/thread/989459/obispo-y-condotiero)
 
 [diplomat-and-two-other-questions](https://boardgamegeek.com/thread/595412/diplomat-and-two-other-questions)
+
+> If i have a tavern in my city. Is diplomat allowed to put a tavern of his in my city and steal any other building, leaving me with 2 identical districts in my city?
+
+Yes. The limitation is on building a duplicate district card, not owning one.
+
+> Do you choose a new color for the purple card every round?
+
+Yes, you choose it's colour each time you might collect income from it.
 
 [some-questions-about-expansion-characters](https://boardgamegeek.com/thread/662131/some-questions-about-expansion-characters)
 
@@ -353,6 +358,10 @@ Both characters help you toward building 8 buildings. So it is one city.
 [can-the-magician-trade-hands-with-someone-thats-be](https://boardgamegeek.com/thread/802867/can-the-magician-trade-hands-with-someone-thats-be)
 
 [thief-robs-emperor-timing-question](https://boardgamegeek.com/thread/414999/thief-robs-emperor-timing-question)
+
+> If the Emperor chooses to pass the crown and recive money from someone, does this happen before the thief robs him or afterwards?
+
+The thief steals as soon as the victim is revealed, so the thief steals *before* the victim actually does anything.
 
 [citadels-dark-city-circus-question](https://boardgamegeek.com/thread/1434464/citadels-dark-city-circus-question)
 
@@ -366,7 +375,15 @@ Both characters help you toward building 8 buildings. So it is one city.
 
 [bonus-counter-for-scoring-5-different-colors](https://boardgamegeek.com/thread/685608/bonus-counter-for-scoring-5-different-colors)
 
+> If you earn the bonus for building 5 different color cards and then the Warlord comes and destroys your only one of that color, do you lose the bonus?
+
+All bonuses are awarded at the end of the game.
+
 [more-than-one-player-to-build-8-districts](https://boardgamegeek.com/thread/817914/more-than-one-player-to-build-8-districts)
+
+> I thought the first player to build 8 districts ends the game. So how do others able to get the +2 to also reach the same figure?
+
+The game ends with a complete round; ALL players get to take their go that turn. So if two people are on 7 districts, the advantage lies with the lower numbered characters.
 
 [warlord-on-the-last-round](https://boardgamegeek.com/thread/1049521/warlord-on-the-last-round)
 
@@ -380,11 +397,36 @@ Both characters help you toward building 8 buildings. So it is one city.
 
 [some-questions](https://boardgamegeek.com/thread/808762/some-questions)
 
+> Does the magician chooses to trade cards with a player at random or can he see the cards?
+
+The magician chooses the player he wishes to exchange hands with.
+
+> If we have a points tie at the end of the game, who becomes the winner?
+
+Citadels Rules states:
+In the case of a tie, compare the total points received only from step 1 of the above scoring process. If there is still a tie, the player with the most gold wins.
+
+> In a game of 2-3 players, do you put an open card at the beginning?
+
+No
+
 [assassinating-the-king](https://boardgamegeek.com/thread/92970/assassinating-the-king)
 
 [alchemist-question](https://boardgamegeek.com/thread/334299/alchemist-question)
 
+> In a 3 player game, which is two characters per player, is it legal to build a district with a character that comes before the Alchemist's turn, then get that gold back once your alchmist is called out?
+
+No, each character that is played is a separate turn. You may only receive gold back for districts built during the turn that the alchemist is active.
+
 [witch-priest-warlord-clarification](https://boardgamegeek.com/thread/2192808/witch-priest-warlord-clarification)
+
+> If the Witch bewitched The Priest, Can the Warlord destroy cities of the priest or cities of Witch or both?
+
+If the witch bewitched the bishop, she takes on the bishop's protection abilities and cannot be attacked by the warlord, but the warlord can attack the cities of the priest.
+
+> Can the magician can steal from any 'player'?
+
+Yes. The Magician targets the player, not the role.
 
 [can-the-magician-exchange-hands-with-the-assassin](https://boardgamegeek.com/thread/64850/can-the-magician-exchange-hands-with-the-assassin)
 
