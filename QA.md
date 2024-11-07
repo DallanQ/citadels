@@ -11,21 +11,19 @@ Correct! At that point in the round, it's unknown if the Merchant was a player o
 > The Architect special ability says "After you take an action, draw 2 extra cards and put both in your hand. You may build up to three districts during your turn."
 > My question is; What is the meaning of 'After you take an action'? Does that mean: after you get the 2 coins/draw a card? 
  
-**Action** = The first step of your turn (get 2 gold OR get 2 district cards and keep one)
-In Citadels, an "action" always means "take 2 coins, or draw 2 cards and keep 1". Then the rest of your turn consists of building, and using your character's special power.
+Action refers to The first step of your turn (get 2 gold OR get 2 district cards and keep one). In Citadels, an "action" always means "take 2 coins, or draw 2 cards and keep 1". 
 
 [what-happens-when-the-witch-takes-the-merchantarch](https://boardgamegeek.com/thread/293993/what-happens-when-the-witch-takes-the-merchantarch)
 
 >  In the rules it says that the witch does get the extra gold and the extra cards, but since the merchant and architect get to act out that phase of their turn do they also get the extra gold/extra card, and thus the ability is performed twice- once by the merchant/architect and once by the witch? Or does the witch just "steal" the ability even if the ability takes place in the "take an action" phase of their turn?
 
-**Each ability is used only once: either by the player (if he isn't selected) or the witch if she bewitches that character:** At the beginning of their turn, each player may take an action. An action is 1) take 2 gold -OR- 2) Draw 2 District cards keeping only one. When the Victim comes up, they get an action as well but can't use the special ability of their character. So they only get 2 gold or 2 cards, keeping one. Their turn is now over. The witch then resumes her turn and can use the special ability of the character.
+**Each ability is used only once: either by the player (if he isn't selected) or the witch if she bewitches that character:** At the beginning of their turn, each player may take an action. When the Victim comes up, they get an action as well but can't use the special ability of their character. So they only get 2 gold or 2 cards, keeping one. Their turn is now over. The witch then resumes her turn and can use the special ability of the character.
 
 
 [2players-question](https://boardgamegeek.com/thread/812294/2players-question)
 
-> In a game with 2 players:
-> The first player puts one card randomly close on the table then he chooses one card and gives the cards to the second player...
-> The second player chooses one card for him and then he chooses one card and he puts it on the table!!! Is this second card choosen randomly by the second player or can he put on the table Any card he wants?
+> In a game with 2 players: The first player puts one card randomly close on the table then he chooses one card and gives the cards to the second player...
+> The second player chooses one card for him and then he chooses one card and he puts it on the table; Is this second card choosen randomly by the second player or can he put on the table Any card he wants?
 
 Yes, Player 2 chooses both his own character card and the one to place face-down in the middle of the table.
 
@@ -33,7 +31,7 @@ Yes, Player 2 chooses both his own character card and the one to place face-down
 
 > Does the Bishop protect all buildings from demolition or only church buildings?
 
-The Bishop protects all of your buildings from destruction. The rulebook says: "Your districts may not be destroyed/exchanged by the Warlord/Diplomat." In the game, "district" means any building card.
+The Bishop protects all of your buildings from destruction. The rulebook says: "Your districts may not be destroyed/exchanged by the Warlord/Diplomat." 
 
 > how do i play 1x1? does the player have to reveal all his characters in one step and make 2 moves? 
 
@@ -41,9 +39,9 @@ For two players, each player chooses 2 roles and the player with the king token 
 
 [when-does-a-player-use-his-special-ability](https://boardgamegeek.com/thread/68239/when-does-a-player-use-his-special-ability)
 
-> At what point during a player's turn does he use his special ability? For example, the Magician may exchange hands with someone. Does he do it before or after his action? This may effect if he takes gold or a card. Can he even wait until after he builds a district?
+> At what point during a player's turn does he use his special ability? For example, the Magician may exchange hands with someone. Does he do it before or after his action? 
 
-They may use their ability at any point, with a few exceptions though. For example, the Merchant may build a green building THEN collect his bonus money for green building(s). He cannot, however, collect his bonus money, use it to build a green building, then collect ANOTHER gold for the new building. The Warlord destroys a district at the end of his turn. The Architect draws two cards immediately after his action, and his ability to build more than one district takes place during his regular building. The King receives the crown at the start of his turn, or at the end of the round if he was assassinated. The Witch's ability is handled in a very specific way - see the rules for details. The Diplomat exchanges districts at the end of his turn.
+They may use their ability at any point, with a few exceptions though. For example, the Merchant may build a green building then collect his bonus money for green building(s). He cannot, however, collect his bonus money, use it to build a green building, then collect another gold for the new building. 
 
 [skipping-turns](https://boardgamegeek.com/thread/683596/skipping-turns)
 
@@ -75,13 +73,13 @@ No, the Witch does her action on her turn, at which point she stops her turn. Th
 
 [bewitched-character](https://boardgamegeek.com/thread/1111282/bewitched-character)
 
-> If my character has been bewitched, can I build a city after taking my aactions ( 2 gold or 2cards choose one)?
+> If my character has been bewitched, can I build a city after taking my aactions?
 
-If YOU are bewitched, then you take your action (2 gold coins or draw 2 cards & keep 1) and immediately you end your turn. You don't build
+If you are bewitched, then you take your action (2 gold coins or draw 2 cards & keep 1) and immediately you end your turn. You don't build
 
 > if I am the witch, can i build a city after taking my action and calling out the character to bewitch? 
 
-If you are the WITCH, You take your action (2 gold coins or draw 2 cards & keep 1), announce the character to bewitch and end your turn.
+If you are the witch, You take your action (2 gold coins or draw 2 cards & keep 1), announce the character to bewitch and end your turn.
 
 [merchant](https://boardgamegeek.com/thread/784288/merchant)
 
@@ -91,7 +89,7 @@ If you are the WITCH, You take your action (2 gold coins or draw 2 cards & keep 
 
 [opting-not-to-use-character-ability](https://boardgamegeek.com/thread/397997/opting-not-to-use-character-ability)
 
-> If the player with the Navigator card chooses not to collect 4 gold or 4 cards, IS she allowed to build a district?
+> If the player with the Navigator card chooses not to collect 4 gold or 4 cards, is she allowed to build a district?
 
  The Navigator is not allowed to build, even if you forego your ability.
 
@@ -109,7 +107,7 @@ No. That is the point of the 2nd character - to use two different abilities.
 
 > If the Bishop is assasinated, can the Warlord (or Diplomat) destroy (or swap) one of his buildings? 
 
-A dead Bishop is not protected from the Warlord/Diplomat. 
+Yes he can. A dead Bishop is not protected from the Warlord or Diplomat. 
 
 [faq-10-questions-need-answering](https://boardgamegeek.com/thread/86522/faq-10-questions-need-answering)
 
