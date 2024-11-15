@@ -1,3 +1,10 @@
+## COMPONENTS (Page 3)
+- 8 CHARACTER CARDS
+- 68 DISTRICT CARDS
+- 1 CROWN CARDS
+- 25 GOLD TOKENS
+- 7 REFERENCE CARDS
+
 ## SETUP (Page 4)
 
 To set up the game, follow these steps:
@@ -12,7 +19,7 @@ To set up the game, follow these steps:
 
 ### SETUP DIAGRAM (4-PLAYER GAME) (Page 5)
 
-> image of 4 cards and 2 gold for each player, a bank of gold coins, and a district deck. The crowned player's play area consists of a character deck, 2 starting gold, four starting cards, and a crown card.
+> Image of 4 District cards facedown and 2 gold coin each for 3 players, a bank of gold coins, and District cards deck. The crowned player's play area(4th player) consists of Character cards deck, 2 starting gold coins, four starting District cards, and a crown card.
 
 ## PLAYING THE GAME (Page 4)
 The rules are explained for games with 4–7 players. Rule changes for 2- and 3-player games can be found on pages 12–13.
@@ -58,33 +65,34 @@ A player has a building limit of one district per turn, and a player cannot buil
 
 After the player with the called character has taken his turn, or if no player revealed the called character, the crowned player continues calling the next character in ascending order, and so on until he has called all characters, after which a new round begins with the selection phase.
 
-#### Character Abilities (Page 7)
-A player **may** use his character's abilities only once per turn at the time specified. If no time is specified, the player can use the ability at any time during his turn. Some characters have abilities that gain gold for districts of a certain type in their city. As a reminder, these characters' rank number appears on a gem of the color of its corresponding district type. Character abilities are explained in detail on pages 14–15. These abilities are the heart of the game, so be sure to familiarize yourself with them before the game begins.
-
-## EXAMPLE OF A TURN (Page 8)
+#### EXAMPLE OF A TURN (Page 8)
 
 Kurt just finished his turn as the Architect. The next character called is the Warlord. Ashley chose the Warlord during the selection phase, so she flips her character card faceup and takes her turn.
 1. Earlier in the round, Anna was the Thief and chose to rob the Warlord. Now that the Warlord is revealed, Anna takes all the gold in Ashley's stash.
 
-> image of 2 cards; a warlord card and thief card, with an arrow showing 4 gold coins moving from the warlord card to the thief card.
+> image of 2 Character cards; a warlord card and thief card, with an arrow showing 4 gold coins moving from the warlord card to the thief card.
 
 2. Next, Ashley gathers resources. To try and recuperate a portion of her stolen coins, she chooses to gain two gold from the bank.
 
-> image of a warlord card and an arrow showing 2 gold coins moving onto the warlord card from the bank.
+> Image of a Warlord card and an arrow showing 2 gold coins moving onto the warlord card from the bank.
 
 3. Kurt appears to be in the lead, so Ashley decides to pay one gold to destroy his Market, which he discards facedown to the bottom of the deck.
 
-> image of a warlord card with an arrow showing 1 coin moving from the warlord card to the bank, and another arrow showing a card being moved face-down to the bottom of the deck.
+> Image of a Warlord card with an arrow showing 1 coin moving from the warlord card to the bank, and another arrow showing a District card being moved facedown to the bottom of the District cards deck.
 
 4. Now she chooses to gain gold for her military districts. She has a Prison and the School of Magic, which she can count here as a military district, so she gains two more gold from the bank. She now has three gold in her stash.
 
-> image showing two coins moving from the bank to a warlord card
+> Image of a Warlord card and 3 gold cions with an arrow showing 2 gold coins moving from the Bank to the Warlord card. And, an image of a Prison and the School of Magic card.
 
 5. She pays three gold to build a Barracks, placing it in her city next to her other districts. She has already used her character ability to gain gold, so she does not gain gold this turn for her Barracks. Since she has used her abilities and built her one district for the turn, her turn ends.
 
-> image showing 3 coins moving from a warlord card to the bank and a new Barracks card in the city.
+> Image of a Warlord card and 3 gold coins moving from the card to the bank. And, an image of a Prison, the School of Magic, and a Barracks card.
 
 The Warlord was the last character in the round, so this round is over. The crowned player gathers all character cards to shuffle them and prepare for the next selection phase.
+
+#### Character Abilities (Page 7)
+A player **may** use his character's abilities only once per turn at the time specified. If no time is specified, the player can use the ability at any time during his turn. Some characters have abilities that gain gold for districts of a certain type in their city. As a reminder, these characters' rank number appears on a gem of the color of its corresponding district type. Character abilities are explained in detail on pages 14–15. These abilities are the heart of the game, so be sure to familiarize yourself with them before the game begins.
+
 
 ## Districts (Page 10)
 There are five district types, which are indicated by the different colored gems. District types are referenced by some character abilities.
@@ -96,7 +104,7 @@ Each **unique** district has an effect, which is described on its card. These ef
 ## RULES TEXT ON CARDS (Page 10)
 Rules text that appears on cards is a brief summary of the card's effect. For the complete rules of a character's ability, see "Character Abilities in Detail" on pages 14–15. If text on a card seems to conflict with text on pages 14–15, the text in the rulebook takes precedence.
 
-## Game End
+## Game End (Page 10)
 As soon as a city has seven districts, it has been completed; the game will end after the current round is finished. A city can have more than seven districts.
 When the game ends, players score points as follows:
 
@@ -112,11 +120,17 @@ When the game ends, players score points as follows:
 
 Players compare point totals, and the player with the most points wins. If there is a tie, the tied player who revealed the character with the **highest- numbered rank** in the last round wins.
 
-## Endgame Scoring Example (Page 11)
+### Endgame Scoring Example (Page 11)
 
-> image showing Kurt's City with 7 cards totaling 21 points plus 4 points because he was the first to complete a city plus 3 points because he has 1 district of each type (Haunted Quarter counts as militart district) totaling 28 points 
+> Image of KURT'S City: 7 District cards and their points denoting a complete city "A Castle card with 4 points, a Tavern card with 1 point, a Trading post with 2 points, a Monastry card with 3 points, a Cathedral card with 5 points, a Observatory card with 4 points, a Haunted Quater card with 2 points"
 
-> image showing Ashley's city with 7 cards totaling 25 points plus 2 points because she completed her city but not first, plus 2 extra points from Dragon Gate totaling 29 points - Ashley Wins!
+KURT'S City totaling of 21 points, for being the first to complete a city he gains 4 points, and 3 points because he has 1 district of each type (Haunted Quarter counts as militart district) 
+KURT'S points totaling = 28 points.
+
+> Image of ASHLEY'S City: 7 District cards and their points denoting a complete city "A Docks card with 3 points, a Trading post card with 2 points, a Barracks card with 3 points, a Prison card with 2 points, a Manor card with 3 points, a School of Magic with 6 points, a Dragon gate card with 6 points"
+
+ASKLEY'S City totaling 25 points, for completing a city but not being first she gains 2 points, and 2 points because she has extra points from Dragon Gate card.
+ASHLEY'S points totaling = 29 points - ASHLEY WINS!
 
 ## PLAYING WITH 2 OR 3 PLAYERS (Page 12)
 In 2- or 3-player games, each player plays with **two characters**. The game is played normally, except that each player takes two turns each round (one turn for each character). Each player has only one stash of gold and one city, and each character's ability applies only during its own turn.
@@ -126,7 +140,7 @@ Also, a completed city requires at least eight districts; the game will end afte
 
 The rules for the selection phase slightly differ between the 2- and 3-player games, as explained here:
 
-### 2-Player Selection Phase 
+### 2-Player Selection Phase (Page 12)
 The crowned player gathers the deck of character cards and shuffles it. He randomly discards one card facedown in the center of the table. Then he takes the remaining seven cards, secretly chooses one to keep for himself, and passes the remaining six cards to his opponent.
 
 For the remaining selections this round, each player chooses two character cards: one he keeps, the other he discards facedown near the other discarded cards, and then he passes the remaining cards to his opponent. This continues until there are no more characters remaining.
@@ -136,7 +150,7 @@ For the remaining selections this round, each player chooses two character cards
 ### 3-Player Selection Phase (Page 13)
 The crowned player gathers the deck of character cards and shuffles it. He randomly discards one card facedown in the center of the table. Then he takes the remaining seven cards, secretly chooses one to keep for himself, and passes the remaining six cards to the player on his left, who also chooses a card and passes the rest of the cards to his left, and so on. This continues until each player has chosen two character cards. After the last player has chosen his second card, the one unchosen card is discarded facedown near the other discarded card.
 
-## CLASSIC VARIANT
+## CLASSIC VARIANT (page 13)
 If players wish to play Citadels with 4–7 players in its original form, they may choose to use the classic variant. In this variant, a city is not considered completed until it has eight districts in it (instead of seven).
 
 ## CHARACTER ABILITIES IN DETAIL (Page 14)
@@ -193,6 +207,6 @@ PLATERS | FACEUP CARDS | FACEDOWN CARDS |
 4 | 2 |3 |
 5 | 1 |1 |
 6 | 0 |1 |
-7 | 0 |1 |
+7 | 0 |1* |
 
 - After the 6th player passes the last character card to the 7th player, that player also takes the character card that was discarded facedown at the beginning of this round. He chooses 1 of these two characters and discards the other 1 facedown.
