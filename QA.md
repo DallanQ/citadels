@@ -2,9 +2,10 @@
 
 [assasin-card-stay-silent](https://boardgamegeek.com/thread/2168610/assasin-card-stay-silent)
 
-> According to the Assassin card; "The player who has the murdered character must say nothing, and must remain silent when the murdered character is called upon to take his turn. The murdered character misses his entire turn, and must remain silent when the murdered character is called upon to take his turn." Does that mean that when Merchant is called upon, Player B should remain completely silent and not say anything at all? So people would presume that maybe Merchant card was discarded?
+> According to the Assassin card; "The player who has the murdered character must say nothing, and must remain silent when the murdered character is called upon to take his turn. The murdered character misses his entire turn, and must remain silent when the murdered character is called upon to take his turn."
+> Does that mean if the player with the assasins card announces that he wants to kill the merchant, the Player with the merchant card should remain completely silent and not say anything at all? So people would presume that maybe Merchant card was discarded?
 
-Correct! At that point in the round, it's unknown if the Merchant was a player or a discard at that point. By the end of the round, it will become obvious (since Player B would not have taken a turn).
+Correct! At that point in the round, it's unknown if the Merchant was a player or a discard at that point. By the end of the round, it will become obvious (since the Player with the merchant card would not have taken a turn).
 
 [question-regarding-the-architech](https://boardgamegeek.com/thread/493329/question-regarding-the-architech)
 
@@ -17,7 +18,13 @@ Action refers to The first step of your turn (get 2 gold OR get 2 district cards
 
 >  In the rules it says that the witch does get the extra gold and the extra cards, but since the merchant and architect get to act out that phase of their turn do they also get the extra gold/extra card, and thus the ability is performed twice- once by the merchant/architect and once by the witch? Or does the witch just "steal" the ability even if the ability takes place in the "take an action" phase of their turn?
 
-**Each ability is used only once: either by the player (if he isn't selected) or the witch if she bewitches that character:** At the beginning of their turn, each player may take an action. When the Victim comes up, they get an action as well but can't use the special ability of their character. So they only get 2 gold or 2 cards, keeping one. Their turn is now over. The witch then resumes her turn and can use the special ability of the character.
+**Each ability is used only once: either by the player (if he isn't selected) or the witch if she bewitches that character:** 
+At the beginning of their turn, each player may take an action. An action is 1) take 2 gold -OR- 2) Draw 2 District cards keeping only one.
+The Witch says to take one of these actions first, then declare your "victim." So at this point you would only take 2 gold or 2 cards, keeping one.
+When the Victim comes up, they get an action as well but can't use the special ability of their character. So they only get 2 gold or 2 cards, keeping one. There turn is now over.
+The witch then resumes her turn and can use the special ability of the character "(including the gold bonus of the Merchant or the two card bonus of the Architect)" in her own city.
+
+So if the player bewtiched the Arcitect, the Witch may now draw 2 more cards and build up to 3 buildings. If she bewitches the merchant, she would get 1 extra gold piece now plus 1 gold for all her green buildings.
 
 
 [2players-question](https://boardgamegeek.com/thread/812294/2players-question)
@@ -45,17 +52,50 @@ They may use their ability at any point, with a few exceptions though. For examp
 
 [skipping-turns](https://boardgamegeek.com/thread/683596/skipping-turns)
 
+> If the person with the crown counter calls a character and nobody responds, he moves on to the next person. What happens if it later turns out that it was a character that somebody actually had, but they weren't paying attention?
+
+This Breaks the game, skipping their turn already goes against the rules of how to play the gam, you have to strictly follow procedure/rules. So make sure everyone pays attention when playing the game.
+
 [witch-navigator-interaction](https://boardgamegeek.com/thread/572448/witch-navigator-interaction)
 
+> Since the navigator can't build in his phase, if the witch bewitches him, does she get the bonus and be able to build?
+
+A bewitched navigator works the same way as a non-bewitched one. After the Navigator takes his action, the Witch effectively takes his role card and puts the Witch back.
+
 [can-the-warlord-destroy-a-poorhouse](https://boardgamegeek.com/thread/1165963/can-the-warlord-destroy-a-poorhouse)
+
+> Can the warlord destroy the poorhouse and gets an extra coin from the person who has build it?
+
+The Warlord can destroy a Building, by paying one less than the cost to build it. In addition he earns one gold for each red building he owns (before or after building in the same turn).
+The Poor House gives one coin to the owner, if the owner has no gold at the end of his turn. It costs 5 gold to build.
+Since the Poor House has no special defence against the Warlord he can destroy it by paying 4 gold.
+
+The only building the Warlord can't destroy is the Keep, which specifically states the Warlord can't destroy it. (And of course he can't destroy any buildings of the player who is currently the Bishop).
 
 [are-coins-limited](https://boardgamegeek.com/thread/2096090/are-coins-limited)
 
 > Are gold coins limited in the game? When there's no more that's it? If not, what do you use to supplement coins?
 
-The amount of gold is not limited by components, you can use a suitable replacement (real coins, matchsticks, apples, or oranges) if you run out.
-
+If there's no money, there's no money!!!
+Players should learn to spend their coins, remember the obligatory "Try not to hoard too many coins because the Thief will have a field day if he manages to target you"
+ 
 [some-questions](https://boardgamegeek.com/thread/785033/some-questions)
+
+> Is there a limit for the cards you're allowed to have in your hand?
+
+No, there are no limits to the cards you're allowed to have in your hand.
+
+> What happens if there's no more gold in the bank at a given time?
+
+If there's no money, there's no money!!!. Apparently, you're out of luck!
+
+> Imagine I play my 8th district. Since the game only ends after that round, if the Warlord gets a turn and destroys one of my districts, does the game still end that round?
+
+Warlord isn't allowed to destroy districts when any player builds an eighth district (completed city).
+
+> Imagine I play my 8th district. Since the game only ends after that round, if the Armory card is activated to destroy one of those 8 districts (making it a 7 district city), do I get the end-game bonus points refering to an 8 district city?
+
+You can destroy an eight district using the Armory. But the game will still end at the end of the turn and the points for building the 8th district first will still count.
 
 [miniera](https://boardgamegeek.com/thread/3120922/miniera)
 
@@ -68,6 +108,12 @@ No, the Witch does her action on her turn, at which point she stops her turn. Th
 [giving-random-card-or-choice](https://boardgamegeek.com/thread/213925/giving-random-card-or-choice)
 
 [cardinal-rules-clarification](https://boardgamegeek.com/thread/2029345/cardinal-rules-clarification)
+
+> Can the Cardinal use another players coins if they themselves have no coins to start with?
+>  The Cardinal card reads: "If you are short of gold, to build a district, exchange your cards for another players gold (1 card:1 gold)."
+
+Yes just like the card says, you can still build even if you have no/short of gold, however the Cardinal does need to have enough cards to give to the player they are taking the gold from.
+Also the Rules says: "...If you want to build a district, but do not have enough gold to do so, you can take the remaining gold needed from one player. For each gold you take, you must give that player one card from your hand. Then you must pay to build that district in your city..."
 
 [setting-of-this-game-in-3-player-case](https://boardgamegeek.com/thread/614562/setting-of-this-game-in-3-player-case)
 
@@ -98,6 +144,12 @@ If you are the witch, You take your action (2 gold coins or draw 2 cards & keep 
 > With 2 players you have 2 characters. On your second turn in a round, can you use the first character's power again?
 
 No. That is the point of the 2nd character - to use two different abilities.
+The only exceptions are Bishop and Tax Collector.
+
+A Bishop will still protect all of your districts no matter what number your other character is.
+And a Tax Collector will still get you 1 gold from anyone else that builds (you have to technically pay yourself 1 gold if you build with your other character later in the turn, but this is a moot point).
+
+But these are not so much "using power again" as it is "power still in effect"
 
 [looking-for-eng-translation-for-the-purple-cards](https://boardgamegeek.com/thread/2008376/looking-for-eng-translation-for-the-purple-cards)
 
@@ -113,24 +165,31 @@ Yes he can. A dead Bishop is not protected from the Warlord or Diplomat.
 
 [warlord-question](https://boardgamegeek.com/thread/1722533/warlord-question)
 
+> The Warlord card says: “You may destroy one district of your choice by paying a number of gold equal to one less than the cost of the district”.
+> Is this cost paid to the bank or to the player who’s district is destroyed?
+
+The cost is paid to the Bank.
+
 [3-player-rule-clarifications](https://boardgamegeek.com/thread/701781/3-player-rule-clarifications)
 
 > In a 3-player game, can you "save up" the first characters ability?
 
-No, you can't save up actions. Citadels rules, p8 states: 'In a two- or three-player game, all players play with two characters each. The game is played normally, except that each player has two turns each round (one turn for each character)'.
+No, you can't save up actions. The rulesbook, page 8 states: 'In a two- or three-player game, all players play with two characters each. The game is played normally, except that each player has two turns each round (one turn for each character).'
 
 [quarry](https://boardgamegeek.com/thread/821974/quarry)
 
 > Does the use of the word "play" as opposed to "build" mean that the placing of duplicate building is without cost?
 
-No, the english rules define building as playing a card from your hand onto the table in front of you.
+No, the rules define building as playing a card from your hand onto the table in front of you.
+The quarry overrides the rules that you cannot build duplicates. It does not override the rule that you must pay the building cost.
 
 [questions-about-navagator-and-maybe-the-tax-collec](https://boardgamegeek.com/thread/1018281/questions-about-navagator-and-maybe-the-tax-collec)
 
 [2-player-rules-turn-order](https://boardgamegeek.com/thread/1442736/2-player-rules-turn-order)
 > in a 2-player game, does Player 1 play two turns, one with each character, then player 2 does the same?
 
-Play the characters in numerical or alphabetical order.
+Play the characters in numerical or alphabetical order & deal with each character fully before moving on to the next.
+It's part of the decision making process when you draft a particular character.
 
 [7-player-game](https://boardgamegeek.com/thread/98653/7-player-game)
 
@@ -153,11 +212,15 @@ It is against the spirit of the game to reveal such information, because Citadel
 
 > Is there an official tie breaker in Citadels?
 
-From the Designer: I usually don't put tie breakers in my games, except when there's a realy good reason for it, or when the publisher insists.
+"If tied, the player with the most points on Building cards alone wins the game."
 
 [smithy-is-too-overpowered](https://boardgamegeek.com/thread/262305/smithy-is-too-overpowered)
 
 [is-number-of-gold-pieces-dependant-on-number-of-pl](https://boardgamegeek.com/thread/273108/is-number-of-gold-pieces-dependant-on-number-of-pl)
+
+> Is the number of Gold pieces dependant on number of players?
+
+The pool of gold is unlimited. Everyone starts with 2 gold, and earns/spends it according to the rules of the game.
 
 [2-player-gameplay-question-citadels](https://boardgamegeek.com/thread/317284/2-player-gameplay-question-citadels)
 
@@ -176,9 +239,8 @@ The thief and assassin's abilities can be used only once per round. The chosen c
 
 >  A University costs 6 gold pieces to build but is worth 8. Does a Warlord need to spend 5 or 7 gold to destroy it?
 
-The author answered this question in the official Q&A:
-Q: What is the price for the Warlord to destroy the University or the Dragon port, 5 or 7 gold pieces?
-A: Building cost minus one: 6-1 = 5
+The Warlord would only need to pay 5 to destroy it.
+Building cost minus one: 6-1 = 5
 
 [error-in-the-rules](https://boardgamegeek.com/thread/90659/error-in-the-rules)
 
@@ -188,13 +250,18 @@ A: Building cost minus one: 6-1 = 5
 
 >  Can a character build a district of any color of his choice and then collect one extra gold for having that district in his city?
 
-Yes, you have a choice of collecting a gold either before or after building.
+Yes, you have a choice of collecting a gold either before or after building. If you collect before, then you can use the money to build your district, but if you collect after, you can benefit from the district you built.
 
 [one-of-each-type](https://boardgamegeek.com/thread/375630/one-of-each-type)
 
 [is-it-allowed-for-player-to-conceal-the-quantity-o](https://boardgamegeek.com/thread/1390591/is-it-allowed-for-player-to-conceal-the-quantity-o)
 
 [extra-gold-ability](https://boardgamegeek.com/thread/3239069/extra-gold-ability)
+
+> For example if i have merchant , when i count how many green districts i own? At the very start of my turn?
+
+You can use the special ability at any time during your turn, but only once.
+(Practically before building anything if you can't afford it otherwise, after building a green district if you already had enough to build it.)
 
 [the-witch-and-the-ballroom](https://boardgamegeek.com/thread/982891/the-witch-and-the-ballroom)
 
@@ -208,9 +275,17 @@ No, choices are secret. Your character is only revealed when your character is c
 
 [is-building-swap-allowed-if-leading-to-duplicate-b](https://boardgamegeek.com/thread/210461/is-building-swap-allowed-if-leading-to-duplicate-b)
 
+> When playing as diplomat, is swap allowed if that leads to duplicate buildings in the victim's city?
+
+No, If you allow it, I'd give 1 bonus point per duplicate to have an incentive for duplicates. But normally duplicates are only allowed through the wizard and quarry.
+
 [the-witch-and-the-thief](https://boardgamegeek.com/thread/93024/the-witch-and-the-thief)
 
 [thief](https://boardgamegeek.com/thread/860034/thief)
+
+> I am playing Citadels for over ten years and we always played that the thief earns his stolen money on the beginning of the turn of the player who was his target. Last week when we played it with some new players one of them was glaring in the rules and pointed me on the rules about the thief and it seems that after all the thief has to receive his money right away in his own turn. This makes a real difference for the gameplay. I am playing this wrong for over ten years?
+
+No you have been playing it right for ten years. He does not steal until his target character is revealed.
 
 [warlord-ability-needing-clarification](https://boardgamegeek.com/thread/1299562/warlord-ability-needing-clarification)
 
