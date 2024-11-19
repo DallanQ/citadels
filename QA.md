@@ -300,19 +300,19 @@ The Warlord pays into the bank. The player who loses a district does not receive
 > Does the thief steal the extra coin of the merchant (the one that merchant take at the beginning of his/her turn)?
 
 No, the thief only steals what the merchant has before the turn.
+From The Rulebook:
+Thief: Announce a character from whom you wish to steal. When the player who has this character is called upon and shows his character card, you take all of his gold.
+Merchant: (...) After you take an action, you receive one extra gold.
+
 [knowing-chosen-role-cards](https://boardgamegeek.com/thread/901818/knowing-chosen-role-cards)
 
 [character-powers-in-2-player-game](https://boardgamegeek.com/thread/94850/character-powers-in-2-player-game)
 
 > If a Player has the Bishop and the Merchant. During the bishop's turn, he recieves some gold for having religious districts. Next up is the Merchant. Now he decides to build a religous district. Does the bishop gain gold for this newly built district?
 
-The player takes 2 seperate turns, so you are correct - the blue district built by the merchant will NOT give any sort of bonus to the Bishop.
+No, the blue district built by the merchant will not give any sort of Gold to the Bishop.
 
 [why-artist-and-queen-both-number-9](https://boardgamegeek.com/thread/1635196/why-artist-and-queen-both-number-9)
-
-> What happens if we use both Artist and Queen in the game? This confuses me a long time?
-
-You can't use two roles that have the same number in the same game, so this situation would never come up.
 
 [can-i-choose-not-to-take-income](https://boardgamegeek.com/thread/948182/can-i-choose-not-to-take-income)
 
@@ -332,25 +332,37 @@ The Warlord cannot target a completed city, a city that has 8 or more districts.
 
 He has to pay 5 gold (cost of district - 1)
 
-> Part of the Architect's special ability says "You may build up to three districts during your turn". Does that mean at ANY point during your turn, or only during the regular 'build a district' point of a turn?
+> Part of the Architect's special ability says "You may build up to three districts during your turn". Does that mean at any point during your turn, or only during the regular 'build a district' point of a turn?
 
 It would be during normal building times.
+
+[does-the-thief-steal-the-income](https://boardgamegeek.com/thread/697597/does-the-thief-steal-the-income)
 
 > Does the Thief steal only what the character is starting with, or will he also steal the gold generated from the characters income?
 
 The thief steals at the start of the victim's turn, so you only get what they start with.
 
-[does-the-thief-steal-the-income](https://boardgamegeek.com/thread/697597/does-the-thief-steal-the-income)
-
 [warlord-plus-poorhouse](https://boardgamegeek.com/thread/819926/warlord-plus-poorhouse)
 
+> The rulebook states that Warlord uses his destroy ability at the end of turn.
+And the poorhouse is also activated at the end of turn.
+> How can i apply them?
+
+The Warlord uses his ability at the end of his turn.
+The Poorhouse works at the end of the game turn.
+So first the Warlord, then the Poorhouse.
+
 [citadels-warlord](https://boardgamegeek.com/thread/117990/citadels-warlord)
+
+> If the Warlord destroys a district, does the money go to the player whose district was destroyed or to the bank?
+
+Yes, the money used to destroy goes to the bank.
 
 [turn-order](https://boardgamegeek.com/thread/469992/turn-order)
 
  > Do I have to wait until after I've taken my action and built my district to use my character's special ability?
 
-You can use the special ability any time you want.
+You can use the special ability before or after your action.
 
 [couple-ruling-questions](https://boardgamegeek.com/thread/209575/couple-ruling-questions)
 
@@ -368,7 +380,7 @@ Definitely correct. A character's ability can be used any time during the turn.
 
 [ninth-district-in-2-player-game](https://boardgamegeek.com/thread/110436/ninth-district-in-2-player-game)
 
-> Is it possible during the final round to build an 8th district with their 1st character and a 9th district with their 2nd character?
+> If a player has two characters in a 2 (and 3 player for that matter) game, Is it possible during the final round to build an 8th district with their 1st character and a 9th district with their 2nd character?
 
 The eighth building triggers the endgame. It's perfectly OK to build to nine buildings.
 
@@ -398,6 +410,8 @@ Yes, as the Merchant you can either take 3 gold or 1 gold and the two district c
 
 > In the begining of a round, we must put 1 character card face down. Should this be done randomly or choosen by the Crowned player?
 
+Yes, it should be a randomly chosen card and it does not matter if it's the King or Emperor. If the King or Emperor is not chosen in a round for whatever reason (or is assassinated), the currently crowned player retains the crown.
+
 [what-makes-up-a-district](https://boardgamegeek.com/thread/500880/what-makes-up-a-district)
 
 > How is a district formed?
@@ -406,11 +420,17 @@ Each one of the building cards is considered a "district." You simply build one 
 
 [confused-with-2-player-rules](https://boardgamegeek.com/thread/102907/confused-with-2-player-rules)
 
-> In a 2 player game, do the 2 characters I have build a serperate city each , or do they gang up and build a city between themselves?
+> In a 2 player game, do the 2 characters I have, build a serperate city each , or do they gang up and build a city between themselves?
 
 Both characters help you toward building a city.
 
 [the-king-card-during-setup](https://boardgamegeek.com/thread/645710/the-king-card-during-setup)
+
+> Can somebody tell me the significant role that the King card plays (if necessary at all) during setup?
+
+The king determines the starting player for choosing the characters next round. If you did not include the King, then you WOULD have the static situation that the same person will continue to be king and continue to draw first. By forcing the king to be in the mix, another player can then take it in order to choose his role first next time.
+
+So the King is a key component in the flow of the game.
 
 [obispo-y-condotiero](https://boardgamegeek.com/thread/989459/obispo-y-condotiero)
 
@@ -429,6 +449,10 @@ Yes, you choose it's colour each time you might collect income from it.
 [does-the-king-have-too-much-power](https://boardgamegeek.com/thread/328545/does-the-king-have-too-much-power)
 
 [can-the-magician-trade-hands-with-someone-thats-be](https://boardgamegeek.com/thread/802867/can-the-magician-trade-hands-with-someone-thats-be)
+
+> Can the magician trade hands with someone that's been stolen from by the thief?
+
+No, because The person who has been robbed by the thief is not identified until their turn, so the magician doesn't know what player will be stolen from. The magician names a player, not a role.
 
 [thief-robs-emperor-timing-question](https://boardgamegeek.com/thread/414999/thief-robs-emperor-timing-question)
 
@@ -456,17 +480,38 @@ All bonuses are awarded at the end of the game.
 
 > I thought the first player to build 8 districts ends the game. So how do others able to get the +2 to also reach the same figure?
 
-The game ends with a complete round; ALL players get to take their go that turn. So if two people are on 7 districts, the advantage lies with the lower numbered characters.
+The game ends with a complete round; ALL players get to take their turn. So if two people are on 7 districts, the advantage lies with the lower numbered characters.
+The Rules says: When a player builds his eighth district, the game ends **after the current round is completed**.
 
 [warlord-on-the-last-round](https://boardgamegeek.com/thread/1049521/warlord-on-the-last-round)
 
 [laboratory-use-on-the-same-turn-as-build](https://boardgamegeek.com/thread/226814/laboratory-use-on-the-same-turn-as-build)
 
+> Suppose you build a laboratory, and you still have more
+actions available during your turn. Can you trade a card
+for gold on this turn? Conversely, if you have already
+taken your character action and gold or card action, and build
+a laboratory which would normally be your last act for the turn,
+can you also trade on this turn?
+
+Yes you can trade a card for Gold in the turn. And, Yes you can still trade on that particular turn.
+
 [bewitching-the-merchant-or-architect](https://boardgamegeek.com/thread/1267063/bewitching-the-merchant-or-architect)
+
+> Does the Witch gets the extra coin/2 cards when bewitching the Merchant/Architect.
+
+Yes the Witch does, the rules says so.
+Quote:
+After you take an action, announce the title of another character that you wish to
+bewitch, then immediately end your turn. When the bewitched character is called upon, its player must show his character card, take an action, and then immediately end his turn. You now resume this player’s turn as if you were playing the bewitched character, using all that character’s powers (including the gold bonus of the Merchant or the two card bonus of the Architect) in your city.
 
 [witch-building-timing](https://boardgamegeek.com/thread/120828/witch-building-timing)
 
 [magician-hand-question](https://boardgamegeek.com/thread/299436/magician-hand-question)
+
+> Since The magician can swap hands with a player, are the character cards part of the player's hand?
+
+Characters are not part of player's hand.
 
 [some-questions](https://boardgamegeek.com/thread/808762/some-questions)
 
@@ -481,25 +526,20 @@ In the case of a tie, compare the total points received only from step 1 of the 
 
 > In a game of 2-3 players, do you put an open card at the beginning?
 
-No
+No you do not put an open card from the beginning of the game.
 
 [assassinating-the-king](https://boardgamegeek.com/thread/92970/assassinating-the-king)
 
 [alchemist-question](https://boardgamegeek.com/thread/334299/alchemist-question)
 
-> In a 3 player game, which is two characters per player, is it legal to build a district with a character that comes before the Alchemist's turn, then get that gold back once your alchmist is called out?
-
-No, each character that is played is a separate turn. You may only receive gold back for districts built during the turn that the alchemist is active.
-
 [witch-priest-warlord-clarification](https://boardgamegeek.com/thread/2192808/witch-priest-warlord-clarification)
 
 > If the Witch bewitched The Priest, Can the Warlord destroy cities of the priest or cities of Witch or both?
 
-If the witch bewitched the bishop, she takes on the bishop's protection abilities and cannot be attacked by the warlord, but the warlord can attack the cities of the priest.
+The Warlord can destroy Both.
+
+[can-the-magician-exchange-hands-with-the-assassin](https://boardgamegeek.com/thread/64850/can-the-magician-exchange-hands-with-the-assassin)
 
 > Can the magician can steal from any 'player'?
 
 Yes. The Magician targets the player, not the role.
-
-[can-the-magician-exchange-hands-with-the-assassin](https://boardgamegeek.com/thread/64850/can-the-magician-exchange-hands-with-the-assassin)
-
