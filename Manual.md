@@ -1,10 +1,3 @@
-## COMPONENTS (Page 3)
-- 8 CHARACTER CARDS
-- 68 DISTRICT CARDS
-- 1 CROWN CARDS
-- 25 GOLD TOKENS
-- 7 REFERENCE CARDS
-
 ## SETUP (Page 4)
 
 To set up the game, follow these steps:
