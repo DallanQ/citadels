@@ -7,12 +7,22 @@
 
 Correct! At that point in the round, it's unknown if the Merchant was a player or a discard at that point. By the end of the round, it will become obvious (since the Player with the merchant card would not have taken a turn).
 
+----
+Page 14
+
+Call the name of another character whom you wish to kill. When the killed character is called to take his turn, he must remain silent and skip his entire turn for this round without revealing his character card.
+
 [question-regarding-the-architech](https://boardgamegeek.com/thread/493329/question-regarding-the-architech)
 
 > The Architect special ability says "After you take an action, draw 2 extra cards and put both in your hand. You may build up to three districts during your turn."
 > My question is; What is the meaning of 'After you take an action'? Does that mean: after you get the 2 coins/draw a card? 
  
 Action refers to The first step of your turn (get 2 gold OR get 2 district cards and keep one). In Citadels, an "action" always means "take 2 coins, or draw 2 cards and keep 1". 
+
+----
+Page 7
+
+During a turn, the player must gather resources. He can either take two gold from the bank or draw two district cards from the deck, choose one to keep, and discard the other facedown to the bottom of the deck.
 
 [what-happens-when-the-witch-takes-the-merchantarch](https://boardgamegeek.com/thread/293993/what-happens-when-the-witch-takes-the-merchantarch)
 
@@ -26,6 +36,10 @@ The witch then resumes her turn and can use the special ability of the character
 
 So if the player bewtiched the Arcitect, the Witch may now draw 2 more cards and build up to 3 buildings. If she bewitches the merchant, she would get 1 extra gold piece now plus 1 gold for all her green buildings.
 
+----
+Page 7
+
+A player may use his character's abilities only once per turn at the time specified. If no time is specified, the player can use the ability at any time during his turn. Some characters have abilities that gain gold for districts of a certain type in their city. As a reminder, these characters' rank number appears on a gem of the color of its corresponding district type. Character abilities are explained in detail on pages 14–15. These abilities are the heart of the game, so be sure to familiarize yourself with them before the game begins.
 
 [2players-question](https://boardgamegeek.com/thread/812294/2players-question)
 
@@ -34,33 +48,50 @@ So if the player bewtiched the Arcitect, the Witch may now draw 2 more cards and
 
 Yes, Player 2 chooses both his own character card and the one to place face-down in the middle of the table.
 
+----
+Page 12
+
+2-Player Selection Phase: The crowned player gathers the deck of character cards and shuffles it. He randomly discards one card facedown in the center of the table. Then he takes the remaining seven cards, secretly chooses one to keep for himself, and passes the remaining six cards to his opponent.
+
+For the remaining selections this round, each player chooses two character cards: one he keeps, the other he discards facedown near the other discarded cards, and then he passes the remaining cards to his opponent. This continues until there are no more characters remaining.
+
 [beginner-needs-help-with-rules](https://boardgamegeek.com/thread/2983049/beginner-needs-help-with-rules)
 
 > Does the Bishop protect all buildings from demolition or only church buildings?
 
 The Bishop protects all of your buildings from destruction. The rulebook says: "Your districts may not be destroyed/exchanged by the Warlord/Diplomat." 
 
+----
+Page 15
+
+BISHOP: You gain one gold for each religious district in your city.
+During this round, the Warlord cannot destroy your districts. If you are killed, your districts can be destroyed by the Warlord.
+
 > how do i play 1x1? does the player have to reveal all his characters in one step and make 2 moves? 
 
 For two players, each player chooses 2 roles and the player with the king token calls out the roles by number. Each of the 4 chosen roles are then played in number order regardless of which player has which role. NOTE: The players don't take turns playing, instead, the characters are revealed in numerical order, and whoever has the next character takes their turn. 
+
+----
+Page 12
+
+2-Player Selection Phase: The crowned player gathers the deck of character cards and shuffles it. He randomly discards one card facedown in the center of the table. Then he takes the remaining seven cards, secretly chooses one to keep for himself, and passes the remaining six cards to his opponent.
+
+For the remaining selections this round, each player chooses two character cards: one he keeps, the other he discards facedown near the other discarded cards, and then he passes the remaining cards to his opponent. This continues until there are no more characters remaining.
 
 [when-does-a-player-use-his-special-ability](https://boardgamegeek.com/thread/68239/when-does-a-player-use-his-special-ability)
 
 > At what point during a player's turn does he use his special ability? For example, the Magician may exchange hands with someone. Does he do it before or after his action? 
 
-They may use their ability at any point, with a few exceptions though. For example, the Merchant may build a green building then collect his bonus money for green building(s). He cannot, however, collect his bonus money, use it to build a green building, then collect another gold for the new building. 
+They may use their ability at any point, with a few exceptions though. For example, the Merchant may build a green building then collect his bonus money for green building(s). He cannot, however, collect his bonus money, use it to build a green building, then collect another gold for the new building.
+
+----
+Page 14
+
+Character abilities are optional (unless the word "must" or "cannot" is used), and each ability can be used only once per turn at the time specified; if no time is specified, the ability can be used at any time during the turn. This includes abilities that gain resources for districts in your city as well. For example, if you are the Bishop, you might choose to gain gold before building a new district (if you need the gold to build that district) or after building (to gain gold from a newly built religious district).
 
 [skipping-turns](https://boardgamegeek.com/thread/683596/skipping-turns)
 
-> If the person with the crown counter calls a character and nobody responds, he moves on to the next person. What happens if it later turns out that it was a character that somebody actually had, but they weren't paying attention?
-
-This Breaks the game, skipping their turn already goes against the rules of how to play the gam, you have to strictly follow procedure/rules. So make sure everyone pays attention when playing the game.
-
 [witch-navigator-interaction](https://boardgamegeek.com/thread/572448/witch-navigator-interaction)
-
-> Since the navigator can't build in his phase, if the witch bewitches him, does she get the bonus and be able to build?
-
-A bewitched navigator works the same way as a non-bewitched one. After the Navigator takes his action, the Witch effectively takes his role card and puts the Witch back.
 
 [can-the-warlord-destroy-a-poorhouse](https://boardgamegeek.com/thread/1165963/can-the-warlord-destroy-a-poorhouse)
 
@@ -72,12 +103,21 @@ Since the Poor House has no special defence against the Warlord he can destroy i
 
 The only building the Warlord can't destroy is the Keep, which specifically states the Warlord can't destroy it. (And of course he can't destroy any buildings of the player who is currently the Bishop).
 
+----
+Page 15
+
+WARLORD: You gain one gold for each military district in your city. You can destroy one district of your choice by paying one fewer gold than its building cost. So, you can destroy a 1-cost district for free, a 2-cost district for 1 gold, a 3-cost district for 2 gold, and so on. You cannot destroy a district in a completed city, but you can destroy one of your own districts. Destroyed districts are discarded facedown to the bottom of the district deck.
+
 [are-coins-limited](https://boardgamegeek.com/thread/2096090/are-coins-limited)
 
 > Are gold coins limited in the game? When there's no more that's it? If not, what do you use to supplement coins?
 
-If there's no money, there's no money!!!
-Players should learn to spend their coins, remember the obligatory "Try not to hoard too many coins because the Thief will have a field day if he manages to target you"
+The amount of gold is not limited by components, you can use a suitable replacement (real coins, matchsticks, apples, or oranges) if you run out.
+
+----
+Page 6
+
+The amount of gold and cards each player has is open information. There is an unlimited amount of gold. If the bank runs out, players can use a substitute for gold. Also, there is no limit to a player's handsize.
  
 [some-questions](https://boardgamegeek.com/thread/785033/some-questions)
 
@@ -85,9 +125,19 @@ Players should learn to spend their coins, remember the obligatory "Try not to h
 
 No, there are no limits to the cards you're allowed to have in your hand.
 
+----
+Page 6
+
+There is no limit to a player's handsize.
+
 > What happens if there's no more gold in the bank at a given time?
 
-If there's no money, there's no money!!!. Apparently, you're out of luck!
+The amount of gold is not limited by components, you can use a suitable replacement (real coins, matchsticks, apples, or oranges) if you run out.
+
+----
+Page 6
+
+The amount of gold and cards each player has is open information. There is an unlimited amount of gold. If the bank runs out, players can use a substitute for gold.
 
 > Imagine I play my 8th district. Since the game only ends after that round, if the Warlord gets a turn and destroys one of my districts, does the game still end that round?
 
@@ -97,13 +147,14 @@ Warlord isn't allowed to destroy districts when any player builds an eighth dist
 
 You can destroy an eight district using the Armory. But the game will still end at the end of the turn and the points for building the 8th district first will still count.
 
+----
+Page 15
+
+WARLORD: You cannot destroy a district in a completed city, but you can destroy one of your own districts. Destroyed districts are discarded facedown to the bottom of the district deck.
+
 [miniera](https://boardgamegeek.com/thread/3120922/miniera)
 
 [witch](https://boardgamegeek.com/thread/1276403/witch)
-
-> When the witch bewitches a character and the bewitched character is called upon, they take an action then end their turn. Then the witch takes over the rest of the turn. My question is, Does the witch now get to do an action (take 2 gold/cards) again, or does she just get the bonus of the bewitched character? 
-
-No, the Witch does her action on her turn, at which point she stops her turn. Then, when the bewitched character has performed their action, the Witch takes over their turn *at that point* so doesn't get a second action, but can use the bewitched character's special action and then build a district (or more if bewitching the Architect).
 
 [giving-random-card-or-choice](https://boardgamegeek.com/thread/213925/giving-random-card-or-choice)
 
