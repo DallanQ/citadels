@@ -160,23 +160,9 @@ WARLORD: You cannot destroy a district in a completed city, but you can destroy 
 
 [cardinal-rules-clarification](https://boardgamegeek.com/thread/2029345/cardinal-rules-clarification)
 
-> Can the Cardinal use another players coins if they themselves have no coins to start with?
->  The Cardinal card reads: "If you are short of gold, to build a district, exchange your cards for another players gold (1 card:1 gold)."
-
-Yes just like the card says, you can still build even if you have no/short of gold, however the Cardinal does need to have enough cards to give to the player they are taking the gold from.
-Also the Rules says: "...If you want to build a district, but do not have enough gold to do so, you can take the remaining gold needed from one player. For each gold you take, you must give that player one card from your hand. Then you must pay to build that district in your city..."
-
 [setting-of-this-game-in-3-player-case](https://boardgamegeek.com/thread/614562/setting-of-this-game-in-3-player-case)
 
 [bewitched-character](https://boardgamegeek.com/thread/1111282/bewitched-character)
-
-> If my character has been bewitched, can I build a city after taking my aactions?
-
-If you are bewitched, then you take your action (2 gold coins or draw 2 cards & keep 1) and immediately you end your turn. You don't build
-
-> if I am the witch, can i build a city after taking my action and calling out the character to bewitch? 
-
-If you are the witch, You take your action (2 gold coins or draw 2 cards & keep 1), announce the character to bewitch and end your turn.
 
 [merchant](https://boardgamegeek.com/thread/784288/merchant)
 
@@ -185,10 +171,6 @@ If you are the witch, You take your action (2 gold coins or draw 2 cards & keep 
 [learn-how-to-teach-and-play-citadels-from-the-how](https://boardgamegeek.com/thread/515612/learn-how-to-teach-and-play-citadels-from-the-how)
 
 [opting-not-to-use-character-ability](https://boardgamegeek.com/thread/397997/opting-not-to-use-character-ability)
-
-> If the player with the Navigator card chooses not to collect 4 gold or 4 cards, is she allowed to build a district?
-
- The Navigator is not allowed to build, even if you forego your ability.
 
 [2-player-question-using-a-characters-power-again-o](https://boardgamegeek.com/thread/626931/2-player-question-using-a-characters-power-again-o)
 
@@ -202,6 +184,11 @@ And a Tax Collector will still get you 1 gold from anyone else that builds (you 
 
 But these are not so much "using power again" as it is "power still in effect"
 
+----
+Page 14
+
+Character abilities are optional (unless the word "must" or "cannot" is used), and each ability can be used only once per turn at the time specified; if no time is specified, the ability can be used at any time during the turn. This includes abilities that gain resources for districts in your city as well. For example, if you are the Bishop, you might choose to gain gold before building a new district (if you need the gold to build that district) or after building (to gain gold from a newly built religious district).
+ 
 [looking-for-eng-translation-for-the-purple-cards](https://boardgamegeek.com/thread/2008376/looking-for-eng-translation-for-the-purple-cards)
 
 [when-to-use-character-powers](https://boardgamegeek.com/thread/88698/when-to-use-character-powers)
