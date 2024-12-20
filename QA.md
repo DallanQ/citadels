@@ -199,6 +199,12 @@ Character abilities are optional (unless the word "must" or "cannot" is used), a
 
 Yes he can. A dead Bishop is not protected from the Warlord or Diplomat. 
 
+----
+page 15
+
+BISHOP
+During this round, the Warlord cannot destroy your districts. If you are killed, your districts can be destroyed by the Warlord.
+
 [faq-10-questions-need-answering](https://boardgamegeek.com/thread/86522/faq-10-questions-need-answering)
 
 [warlord-question](https://boardgamegeek.com/thread/1722533/warlord-question)
@@ -212,14 +218,15 @@ The cost is paid to the Bank.
 
 > In a 3-player game, can you "save up" the first characters ability?
 
-No, you can't save up actions. The rulesbook, page 8 states: 'In a two- or three-player game, all players play with two characters each. The game is played normally, except that each player has two turns each round (one turn for each character).'
+No, you can't save up actions. The rulesbook, page 12 states: 'In a two- or three-player game, all players play with two characters each. The game is played normally, except that each player has two turns each round (one turn for each character).'
+
+----
+page 12
+
+PLAYING WITH 2 OR 3 PLAYERS
+In 2- or 3-player games, each player plays with two characters. The game is played normally, except that each player takes two turns each round (one turn for each character). Each player has only one stash of gold and one city, and each character's ability applies only during its own turn.
 
 [quarry](https://boardgamegeek.com/thread/821974/quarry)
-
-> Does the use of the word "play" as opposed to "build" mean that the placing of duplicate building is without cost?
-
-No, the rules define building as playing a card from your hand onto the table in front of you.
-The quarry overrides the rules that you cannot build duplicates. It does not override the rule that you must pay the building cost.
 
 [questions-about-navagator-and-maybe-the-tax-collec](https://boardgamegeek.com/thread/1018281/questions-about-navagator-and-maybe-the-tax-collec)
 
@@ -229,12 +236,25 @@ The quarry overrides the rules that you cannot build duplicates. It does not ove
 Play the characters in numerical or alphabetical order & deal with each character fully before moving on to the next.
 It's part of the decision making process when you draft a particular character.
 
+----
+page 7
+
+Turn Phase
+Unlike the selection phase, players do not take turns in clockwise order during the turn phase. Instead, they take turns in ascending order of their chosen character's rank, which appears in the top-left corner of each character card. The crowned player calls each character number in ascending order, starting with the number "1" (the Assassin). If a player has the called character card, he reveals it by flipping it faceup and takes his turn.
+
 [7-player-game](https://boardgamegeek.com/thread/98653/7-player-game)
 
 [warlord-v-bishop-in-2-player-game](https://boardgamegeek.com/thread/226593/warlord-v-bishop-in-2-player-game)
 > Can the Warlord destroy a non-blue building built by another character? Or are all buildings protected if a player holds the Bishop character?
 
 If you have used the Bishop this round then all your buildings are protected from the Warlord, if the Bishop was not Assassinated or Bewitched.
+
+----
+page 15
+
+BISHOP 
+You gain one gold for each religious district in your city.
+During this round, the Warlord cannot destroy your districts. If you are killed, your districts can be destroyed by the Warlord.
 
 [the-diplomat-and-the-lighthouse-does-exchanging-eq](https://boardgamegeek.com/thread/1905189/the-diplomat-and-the-lighthouse-does-exchanging-eq)
 
@@ -244,6 +264,12 @@ If you have used the Bishop this round then all your buildings are protected fro
 
 It is against the spirit of the game to reveal such information, because Citadels is about secret role selection.
 
+----
+page 14
+
+ASSASSIN 
+Call the name of another character whom you wish to kill. When the killed character is called to take his turn, he must remain silent and skip his entire turn for this round without revealing his character card.
+
 [looking-for-english-descriptions-of-the-purple-car](https://boardgamegeek.com/thread/169303/looking-for-english-descriptions-of-the-purple-car)
 
 [is-there-an-official-tiebreaker-in-citadels](https://boardgamegeek.com/thread/407356/is-there-an-official-tiebreaker-in-citadels)
@@ -251,6 +277,11 @@ It is against the spirit of the game to reveal such information, because Citadel
 > Is there an official tie breaker in Citadels?
 
 "If tied, the player with the most points on Building cards alone wins the game."
+
+----
+page 10
+
+**Players compare point totals, and the player with the most points wins. If there is a tie, the tied player who revealed the character with the highest- numbered rank in the last round wins.**
 
 [smithy-is-too-overpowered](https://boardgamegeek.com/thread/262305/smithy-is-too-overpowered)
 
@@ -260,12 +291,23 @@ It is against the spirit of the game to reveal such information, because Citadel
 
 The pool of gold is unlimited. Everyone starts with 2 gold, and earns/spends it according to the rules of the game.
 
+----
+page 6
+
+OPEN INFORMATION
+The amount of gold and cards each player has is open information. There is an unlimited amount of gold. If the bank runs out, players can use a substitute for gold. Also, there is no limit to a player's handsize.
+
 [2-player-gameplay-question-citadels](https://boardgamegeek.com/thread/317284/2-player-gameplay-question-citadels)
 
 > Who gets to pick the first card after the first round? Does the counter only move to another player when that player chooses the King card?
 
 Yes, whoever has the "king" token picks first.
 
+----
+page 15
+
+King
+At some point during your turn, you must take the crown. You are now the crowned player, so you call characters for the rest of the round, and you will be the first to choose a character during the next round (until another player chooses the King). 
 
 [thief-and-assassin-abilities-played-only-once-per](https://boardgamegeek.com/thread/1721248/thief-and-assassin-abilities-played-only-once-per)
 
@@ -273,12 +315,23 @@ Yes, whoever has the "king" token picks first.
 
 The thief and assassin's abilities can be used only once per round. The chosen characters can be used again next round.
 
+----
+page 4
+
+Citadels is played over a series of rounds. Each round begins with the selection phase, during which players pass around the character cards and choose one character for the round.
+
 [warlord-vs-university](https://boardgamegeek.com/thread/124862/warlord-vs-university)
 
 >  A University costs 6 gold pieces to build but is worth 8. Does a Warlord need to spend 5 or 7 gold to destroy it?
 
 The Warlord would only need to pay 5 to destroy it.
 Building cost minus one: 6-1 = 5
+
+----
+page 15
+
+Warlord
+You can destroy one district of your choice by paying one fewer gold than its building cost. So, you can destroy a 1-cost district for free, a 2-cost district for 1 gold, a 3-cost district for 2 gold, and so on. 
 
 [error-in-the-rules](https://boardgamegeek.com/thread/90659/error-in-the-rules)
 
@@ -290,16 +343,28 @@ Building cost minus one: 6-1 = 5
 
 Yes, you have a choice of collecting a gold either before or after building. If you collect before, then you can use the money to build your district, but if you collect after, you can benefit from the district you built.
 
+----
+page 14
+
+CHARACTER ABILITIES IN DETAIL
+This section explains each character's abilities in full detail. Remember, character abilities are optional (unless the word "must" or "cannot" is used), and each ability can be used only once per turn at the time specified; if no time is specified, the ability can be used at any time during the turn. This includes abilities that gain resources for districts in your city as well. For example, if you are the Bishop, you might choose to gain gold before building a new district (if you need the gold to build that district) or after building (to gain gold from a newly built religious district).
+
 [one-of-each-type](https://boardgamegeek.com/thread/375630/one-of-each-type)
 
 [is-it-allowed-for-player-to-conceal-the-quantity-o](https://boardgamegeek.com/thread/1390591/is-it-allowed-for-player-to-conceal-the-quantity-o)
 
 [extra-gold-ability](https://boardgamegeek.com/thread/3239069/extra-gold-ability)
 
-> For example if i have merchant , when i count how many green districts i own? At the very start of my turn?
+> For example if I have merchant, when do I count how many green districts I own? At the very start of my turn?
 
 You can use the special ability at any time during your turn, but only once.
 (Practically before building anything if you can't afford it otherwise, after building a green district if you already had enough to build it.)
+
+----
+page 7
+
+Character Abilities
+A player may use his character's abilities only once per turn at the time specified. If no time is specified, the player can use the ability at any time during his turn. Some characters have abilities that gain gold for districts of a certain type in their city. As a reminder, these characters' rank number appears on a gem of the color of its corresponding district type. 
 
 [the-witch-and-the-ballroom](https://boardgamegeek.com/thread/982891/the-witch-and-the-ballroom)
 
